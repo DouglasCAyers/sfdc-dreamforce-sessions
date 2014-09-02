@@ -37,6 +37,7 @@
                     <td>{{session.sessionName}}</td>
                     <td>{{session.sessionAbstract}}</td>
                     <td>
+                        <!-- use span rather than div or br tags otherwise copying to Excel formats wrong -->
                         <span ng-repeat="speaker in session.speaker">
                             <strong>{{speaker.name}}</strong> ({{speaker.accountName}})
                         </span>
