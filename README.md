@@ -16,6 +16,7 @@ Getting Started
 6. Next, I wrote a very simple [angular controller](dreamforce/controller.js) that read the json file and bound the data to be rendered in the [index.html](dreamforce/index.html) page.
 7. I added some bootstrap css to style the table just for fun, but not necessary since I'm copying the data out to Excel anyways!
 
+Please note, since the official listing of Dreamforce sessions is subject to change at anytime, you may want to periodically download the latest session data .json file.
 
 Wish List
 =========
