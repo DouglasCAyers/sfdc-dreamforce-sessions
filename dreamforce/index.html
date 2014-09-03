@@ -30,6 +30,12 @@
                     <th>Name</th>
                     <th>Abstract</th>
                     <th>Speakers</th>
+                    <th>Session Date</th>
+                    <th>Session Time</th>
+                    <th>Level</th>
+                    <th>Products</th>
+                    <th>Roles</th>
+                    <th>Themes</th>
                 </tr>
                 <tr ng-repeat="session in sessionData.sessions">
                     <td>{{$index + 1}}</td>
@@ -42,6 +48,12 @@
                             <strong>{{speaker.name}}</strong> ({{speaker.accountName}})
                         </span>
                     </td>
+                    <td>{{session.sessionDate}}</td>
+                    <td>{{session.sessionTime}}</td>
+                    <td>{{session.level.join(', ')}}</td>
+                    <td>{{session.product.join(', ')}}</td>
+                    <td>{{session.role.join(', ')}}</td>
+                    <td>{{session.theme.join(', ')}}</td>
                 </tr>
             </table>
 
