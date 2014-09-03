@@ -11,14 +11,9 @@ Getting Started
 1. I viewed the source of the http://www.salesforce.com/dreamforce/DF14/sessions.jsp page with my browser and noticed they included this script towards the top `<script type="text/javascript" src="http://www.sfdcstatic.com/common/assets/js/min/df14-sessions-min.js"></script>`
 2. It was minified, so I used http://www.jspretty.com/ to format the code for easier reading. Although the code had also been somewhat obfuscated when minified so I couldn't decipher variable names. Further inspection of the html source code showed this line `<div class="ng-scope" ng-controller="MainCtrl" ng-app="app">` so I began hunting for **MainCtrl** angular controller definition within the `df14-sessions-min.js` file
 3. Once I found the **MainCtrl** controller, I read down a few lines and noticed a URL invocation to `/assets/js/filterSessions.jsp?eventId=a1Q30000002aJu6EAE` so in my browser I went to http://www.salesforce.com/assets/js/filterSessions.jsp?eventId=a1Q30000002aJu6EAE and voila! All the dreamforce sessions in wonderful .json format ready for our consumption!
-4. At this point, I sparked the idea that I could write a simple AngularJS app to build out an HTML table of all the Dreamforce session data important to me then I could copy & paste that output into Excel. That is the code in this repository under the `dreamforce` folder. I welcome improvements to the code, my wish list is at the bottom of this document =)
+4. At this point, I sparked the idea that I could write a simple AngularJS app to build out an HTML table of all the Dreamforce session data important to me then I could copy & paste that output into Excel. That is the code in this repository under the `dreamforce` folder. I welcome improvements to the code, my wish list is on the [issues page](/../../issues)
 5. Since I'm running my AngularJS app locally, my browser security blocks any ajax urls to download the session .json data identified in Step 3 due to Cross-Origin Request (CORS) so I resigned to just saving a copy of the session data to [local .json file](dreamforce/sessionData.json)
 6. Next, I wrote a very simple [angular controller](dreamforce/controllers.js) that read the json file and bound the data to be rendered in the [index.html](dreamforce/index.html) page.
 7. I added some bootstrap css to style the table just for fun, but not necessary since I'm copying the data out to Excel anyways!
 
 Please note, since the official listing of Dreamforce sessions is subject to change at anytime, you may want to periodically download the latest session data .json file.
-
-Wish List
-=========
-1. Rather than save the dreamforce session data as a .json file locally, would like alternative method to get around the `Cross-Origin Request Blocked`. Possibly host the app on heroku?
-2. Would like a "download to excel" option, probably as csv data.
