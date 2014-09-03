@@ -1,7 +1,9 @@
 sfdc-dreamforce-sessions
 ========================
 
-I'm preparing for my first Dreamforce conference and as of the time of this writing the official Agenda Builder has not been released. To review the some 1,044 sessions and begin to plan out which I want to attend, I have to use the paginated browser experience at http://www.salesforce.com/dreamforce/DF14/sessions.jsp. Not ideal. I'd rather slice and dice the data and plan out my sessions in Excel for now until I see how the official Agenda Builder app operates.
+This document details how I went about creating the unofficial Excel export of Dreamforce 2014 sessions posted on the [Success Community](https://success.salesforce.com/06930000003yys0).
+
+I'm preparing for my first Dreamforce conference and as of the time of this writing the official Agenda Builder has not been released. To review the 1,000+ sessions and begin to plan out which I want to attend, I have to use the paginated browser experience at http://www.salesforce.com/dreamforce/DF14/sessions.jsp. Not ideal. I'd rather slice and dice the data and plan out my sessions in Excel for now until I see how the official Agenda Builder app operates.
 
 But how to get the list of all the Dreamforce sessions so I can put them into Excel?
 
