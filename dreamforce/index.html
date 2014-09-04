@@ -29,9 +29,6 @@
                     <th>ID</th>
                     <th>Name</th>
                     <th>Abstract</th>
-                    <th>Speakers</th>
-                    <th>Session Date</th>
-                    <th>Session Time</th>
                     <th>Level</th>
                     <th>Products</th>
                     <th>Roles</th>
@@ -42,14 +39,6 @@
                     <td>{{session.id}}</td>
                     <td>{{session.sessionName}}</td>
                     <td>{{session.sessionAbstract}}</td>
-                    <td>
-                        <!-- use span rather than div or br tags otherwise copying to Excel formats wrong -->
-                        <span ng-repeat="speaker in session.speaker">
-                            <strong>{{speaker.name}}</strong> ({{speaker.accountName}})
-                        </span>
-                    </td>
-                    <td>{{session.sessionDate}}</td>
-                    <td>{{session.sessionTime}}</td>
                     <td>{{session.level.join(', ')}}</td>
                     <td>{{session.product.join(', ')}}</td>
                     <td>{{session.role.join(', ')}}</td>
