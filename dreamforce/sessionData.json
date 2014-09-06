@@ -14,7 +14,7 @@
         "levelIds": [],
         "productIds": [0, 4, 5, 10, 11, 12, 13, 14],
         "themeIds": [1, 2, 5, 6, 10, 16, 17],
-        "roleIds": [0, 4, 5, 8, 9, 10, 11, 18, 19, 21],
+        "roleIds": [0, 4, 5, 8, 9, 10, 11, 18, 19, 20],
         "recordTypeId": "01230000001dscEAAQ"
     }, {
         "id": "a2q30000000huDmAAI",
@@ -55,17 +55,17 @@
         "sessionName": "10 Benefits of Moving from Your Existing Service Solution into Salesforce",
         "sessionAbstract": "You want to be able to deliver exceptional service to your customers, anytime, anywhere, but your current system or use of email and disconnected social are no longer working. Join us to learn how our scalable service solutions can help you increase agent productivity and create happy customers.",
         "industry": [],
-        "level": [],
+        "level": ["Intermediate"],
         "product": ["Service Cloud"],
-        "role": [],
+        "role": ["Executive", "General Management", "Service and Support Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [4],
         "productIds": [15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [6, 8, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hz9vAAA",
@@ -99,7 +99,7 @@
         "levelIds": [],
         "productIds": [9, 10],
         "themeIds": [2, 3, 5, 11],
-        "roleIds": [2, 3, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19, 21],
+        "roleIds": [2, 3, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i5c0AAA",
@@ -133,24 +133,24 @@
         "levelIds": [],
         "productIds": [0, 8, 14],
         "themeIds": [],
-        "roleIds": [19, 21],
+        "roleIds": [19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39VAAQ",
         "sessionName": "20/20 Vision For Your Business: Knowing What to Measure and How",
         "sessionAbstract": "Show me the data! Salesforce's powerful reports and dashboards can help you showcase those big wins and unlock hidden areas of opportunity. Join us and learn how you can gain insight on your numbers and measure your success to improve sales, marketing, service and overall adoption.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud"],
-        "role": [],
+        "role": ["Administrator", "Executive", "Sales Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 6, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hXjsAAE",
@@ -184,7 +184,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hvwuAAA",
@@ -206,36 +206,36 @@
     }, {
         "id": "a2q30000000h39TAAQ",
         "sessionName": "4 in 40: Four SMB Customers Share Their Sales Success Secrets",
-        "sessionAbstract": "Forty minutes, four customers, countless stories. If you've ever wondered how other small businesses are using Salesforce, this is the session for you. Join us to hear straight from small business customers on how they are using Salesforce to grow their business, and how you can, too.",
+        "sessionAbstract": "Forty minutes, four customers, countless stories. If you've ever wondered how other small businesses are using Salesforce, this is the session for you. Join us to hear straight from small business customers on how they are using Salesforce to grow their business, and how you can too.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud"],
-        "role": [],
+        "role": ["Consultant", "Executive", "General Management", "Marketing Professional", "Sales Operations", "Sales Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [3, 6, 8, 11, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39UAAQ",
         "sessionName": "4 in 40: Four SMB Customers Share Their Sales Success Secrets (2)",
         "sessionAbstract": "Forty minutes, four customers, countless stories. If you've ever wondered how other small businesses are using Salesforce, this is the session for you. Join us to hear straight from small business customers on how they are using Salesforce to grow their business, and how you can, too.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Administrator", "Consultant", "Executive", "General Management", "IT Professional", "Sales Professional", "Service and Support Professional"],
+        "theme": ["Sales Productivity", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [13, 17],
+        "roleIds": [0, 3, 6, 8, 10, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hpeEAAQ",
@@ -446,17 +446,17 @@
         "sessionName": "A One-Stop Shop for SMBs to Manage Their Entire Business",
         "sessionAbstract": "From sales, to marketing and finance, join us to learn how you can manage your entire business within Salesforce. You'll hear from other SMB customers about how they're using this tool to manage their business end to end, and will leave armed with new ways you can leverage this application for success.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Salesforce1 Platform"],
-        "role": [],
+        "role": ["Administrator", "Executive", "General Management", "IT Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [14],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 6, 8, 10],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hsOOAAY",
@@ -599,17 +599,17 @@
         "sessionName": "Accelerating Success by Selecting the Right Salesforce Partner",
         "sessionAbstract": "Delayed starts, lack of knowledge and resources for executing? Partners can be your key to succcess. But how do you make this important decision? Join us as we share strategies, tips, and specific partner evaluation criteria you can use to select the right partner for you and your project.",
         "industry": [],
-        "level": [],
+        "level": ["Intermediate"],
         "product": ["Data.com", "Sales Cloud", "Salesforce1 Platform", "Service Cloud"],
-        "role": [],
+        "role": ["Administrator", "Executive", "General Management", "IT Professional", "Operations"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [4],
         "productIds": [1, 8, 14, 15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 6, 8, 10, 12],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gumwAAA",
@@ -718,17 +718,17 @@
         "sessionName": "Activate Your Database with Needs-Driven Segmentation, Automations, & Nurturing",
         "sessionAbstract": "Join us to learn how TRACOM Group has implemented a customer needs-driven lead nurturing program that uses Pardot segmentation, automation, and dynamic email content to activate, engage, and qualify sales-ready leads in their existing prospect database.",
         "industry": [],
-        "level": [],
+        "level": ["Advanced"],
         "product": ["Pardot"],
-        "role": [],
+        "role": ["Administrator", "Marketing Professional", "Sales Operations"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [0],
         "productIds": [6],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 11, 18],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgOAAU",
@@ -888,17 +888,17 @@
         "sessionName": "After the IPO: Lessons from Successful Executives",
         "sessionAbstract": "It is every entrepreneur's wildest dream to be able to take their company to IPO. Come hear lessons from successful entrepreneurs who led their companies past the start-up phase and eventually took their company public or into a merger.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
+        "role": ["Entrepreneur", "Executive"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [5],
+        "roleIds": [5, 6],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMflAAE",
@@ -912,6 +912,23 @@
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [1],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [],
+        "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000hMfxAAE",
+        "sessionName": "Agility & Innovation: Connect and Personalize for Better Patient Care",
+        "sessionAbstract": "Automating and scaling key business processes and enabling new levels of collaboration are top of mind for Life Sciences CIOs today. Clinical ordering apps for researchers, Investigator portals, patient/site recruitment, lab event schedulers, productivity apps for the workforce, product launch, and publication management are some of the ways Life Sciences companies are innovating on Force.com to enhance their sales and their bottom lines. Join us to learn how our customers are modernizing, streamlining, and uncovering new value by leveraging the Salesforce1 Platform to support the next era of profitable growth.",
+        "industry": ["Healthcare & Life Sciences"],
+        "level": [],
+        "product": [],
+        "role": [],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [3],
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
@@ -935,25 +952,8 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000hMfxAAE",
-        "sessionName": "Agility & Innovation: Drive Innovation, Collaboration & Growth in Life Sciences",
-        "sessionAbstract": "Automating and scaling key business processes and enabling new levels of collaboration are top of mind for Life Sciences CIOs today. Clinical ordering apps for researchers, Investigator portals, patient/site recruitment, lab event schedulers, productivity apps for the workforce, product launch, and publication management are some of the ways Life Sciences companies are innovating on Force.com to enhance their sales and their bottom lines. Join us to learn how our customers are modernizing, streamlining, and uncovering new value by leveraging the Salesforce1 Platform to support the next era of profitable growth.",
-        "industry": ["Healthcare & Life Sciences"],
-        "level": [],
-        "product": [],
-        "role": [],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [3],
-        "levelIds": [],
-        "productIds": [],
-        "themeIds": [],
-        "roleIds": [],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000hpR5AAI",
-        "sessionName": "Agility & Innovation: Med device/wearables/connected device",
+        "sessionName": "Agility & Innovation: Connected devices and data - a new era of healthcare",
         "sessionAbstract": "The internet of customers is a revolution in Healthcare. Connected device are redefining customer service and producing new data that is driving new value in Life Sciences. Remote monitoring devices, Automatic case creation based on alerts, alarms, errors and exceptions - salesforfce1 is the platform to connect the next generation life sciences products and services. Join us to see how leading companies are connecting healthcare to create amazing customer experiences, and generate new value for the changing healthcare system",
         "industry": ["Healthcare & Life Sciences"],
         "level": [],
@@ -1073,19 +1073,19 @@
     }, {
         "id": "a2q30000000i0V0AAI",
         "sessionName": "Analyzing Business Data with Salesforce: How to Push the Reporting Envelope",
-        "sessionAbstract": "What Decisions do You Want Salesforce to help you Analyze? In this session we will get a Sneak Peek at How Salesforce uses our Analytics Capabilities to Understand Finance, Operations, and Other Key Business Functions.",
+        "sessionAbstract": "What Decisions do You Want Salesforce to help you Analyze? In this session we will get a Sneak Peek at How Salesforce.com uses our Analytics capabilities to support enterprise performance management, report on key metrics, and course correct against plan.",
         "industry": [],
         "level": ["Intermediate"],
-        "product": [],
-        "role": [],
-        "theme": [],
+        "product": ["Salesforce1 Mobile", "Salesforce1 Platform"],
+        "role": ["Consultant", "Entrepreneur", "Executive", "Finance and Accounting", "IT Professional", "Product Management", "SI Consulting Partner", "Sales Operations"],
+        "theme": ["Analytics", "Collaboration & Communities", "Forecasting", "Mobile", "Sales Productivity", "Salesforce.com on Salesforce"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
         "levelIds": [4],
-        "productIds": [],
-        "themeIds": [],
-        "roleIds": [],
+        "productIds": [13, 14],
+        "themeIds": [0, 2, 4, 10, 13, 14],
+        "roleIds": [3, 5, 6, 7, 10, 15, 17, 18],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h3BnAAI",
@@ -1434,7 +1434,7 @@
         "industry": ["Financial Services"],
         "level": [],
         "product": ["AppExchange", "Sales Cloud", "Salesforce1 Mobile"],
-        "role": ["Administrator", "Executive", "IT Professional", "Sales Professional"],
+        "role": ["Administrator", "Developer", "Entrepreneur", "Executive", "Finance and Accounting", "General Management", "Human Resources", "IT Professional", "Marketing Professional", "Partner / ISV", "Sales Operations", "Sales Professional"],
         "theme": ["AppExchange"],
         "audioTrackUrl": "",
         "slidesUrl": "",
@@ -1442,7 +1442,7 @@
         "levelIds": [],
         "productIds": [0, 8, 13],
         "themeIds": [1],
-        "roleIds": [0, 6, 10, 19],
+        "roleIds": [0, 4, 5, 6, 7, 8, 9, 10, 11, 14, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gvuNAAQ",
@@ -1514,7 +1514,7 @@
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdUuAAI",
-        "sessionName": "AppExchange for Marketing: Supercharge Campaigns, Events, and More",
+        "sessionName": "AppExchange for Marketing: Supercharge Marketing Impact with Apps",
         "sessionAbstract": "Get even more value out of of your marketing efforts with hundreds of apps from AppExchange. Join us to hear how marketing experts use solutions from AppExchange to increase lead quality and flow, track campaign progress, and streamline marketing operations. You'll walk away with real-world knowledge and a list of top marketing apps (both free and paid) that you can easily deploy with just a few clicks.",
         "industry": [],
         "level": [],
@@ -1578,24 +1578,7 @@
         "levelIds": [],
         "productIds": [0, 4, 9, 13, 15],
         "themeIds": [1],
-        "roleIds": [0, 10, 21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000hsOYAAY",
-        "sessionName": "AppExchange Speed Dating: Hot Apps You Might Fall in Love With",
-        "sessionAbstract": "Are you looking for that perfect set of apps to complete yourself? With so many to choose from, it can be hard to find the right ones for you. Join us as we review multiple AppExchange products and take you out on a very short coffee date with each of them.",
-        "industry": ["Higher Education"],
-        "level": [],
-        "product": [],
-        "role": [],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [5],
-        "levelIds": [],
-        "productIds": [],
-        "themeIds": [],
-        "roleIds": [],
+        "roleIds": [0, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i5bqAAA",
@@ -1609,6 +1592,23 @@
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [],
+        "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000hsOYAAY",
+        "sessionName": "AppExchange Speed Dating: Hot Apps You Might Fall in Love With",
+        "sessionAbstract": "Are you looking for that perfect set of apps to complete yourself? With so many to choose from, it can be hard to find the right ones for you. Join us as we review multiple AppExchange products and take you out on a very short coffee date with each of them.",
+        "industry": ["Higher Education"],
+        "level": [],
+        "product": [],
+        "role": [],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [5],
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
@@ -1653,17 +1653,17 @@
         "sessionName": "AppExchange: Grow Your Small & Medium Business with Apps",
         "sessionAbstract": "With almost 2,000 apps on AppExchange, how do you find the ones specifically designed to help small businesses? Join us to learn the secrets of finding the right apps to run your business and position yourself for growth. You'll walk away with real-world knowledge and a list of top apps (both free and paid) that you can easily deploy with just a few clicks.",
         "industry": [],
-        "level": [],
-        "product": ["Salesforce1 Platform"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "level": ["Any"],
+        "product": ["AppExchange", "Desk.com", "Sales Cloud", "Salesforce1 Mobile", "Salesforce1 Platform", "Service Cloud"],
+        "role": ["Administrator", "Developer", "Entrepreneur", "General Management", "IT Professional", "Marketing Professional", "Sales Operations", "Sales Professional"],
+        "theme": ["AppExchange", "Gamification", "Sales Productivity", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [14],
-        "themeIds": [17],
-        "roleIds": [],
+        "levelIds": [1],
+        "productIds": [0, 2, 8, 13, 14, 15],
+        "themeIds": [1, 5, 13, 17],
+        "roleIds": [0, 4, 5, 8, 10, 11, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gypXAAQ",
@@ -1680,7 +1680,7 @@
         "levelIds": [4],
         "productIds": [0, 8, 14, 15],
         "themeIds": [0, 1, 8, 10, 13, 17, 21],
-        "roleIds": [0, 1, 4, 6, 8, 10, 14, 18, 19, 21],
+        "roleIds": [0, 1, 4, 6, 8, 10, 14, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gypLAAQ",
@@ -2156,7 +2156,7 @@
         "levelIds": [],
         "productIds": [0, 8, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmMOAAY",
@@ -2190,7 +2190,7 @@
         "levelIds": [4],
         "productIds": [4, 8, 9, 10, 13, 14, 15],
         "themeIds": [8, 15],
-        "roleIds": [0, 2, 3, 10, 21],
+        "roleIds": [0, 2, 3, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hm7JAAQ",
@@ -2343,7 +2343,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmMAAAY",
@@ -2378,6 +2378,40 @@
         "productIds": [0],
         "themeIds": [],
         "roleIds": [6, 19],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gdQmAAI",
+        "sessionName": "Beyond the Portal: Driving Self-Service Support with Communities",
+        "sessionAbstract": "Providing an online community to service and collect feedback from your customers has become essential in today's social world. However, customers are looking for coherent self-service and community experiences, providing a single source of truth regardless of their entry into the system. Join us to hear how customers have used Salesforce Communities to increase customer satisfaction and maximize web issue resolution with integrated self-service communities.",
+        "industry": [],
+        "level": [],
+        "product": ["Salesforce Communities", "Service Cloud"],
+        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
+        "theme": ["Collaboration & Communities"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [10, 15],
+        "themeIds": [2],
+        "roleIds": [0, 10, 20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gwYkAAI",
+        "sessionName": "Beyond the Portal: Driving Self-Service Support with Communities (2)",
+        "sessionAbstract": "Providing an online community to service and collect feedback from your customers has become essential in today's social world. However, customers are looking for coherent self-service and community experiences, providing a single source of truth regardless of their entry into the system. Join us to hear how customers have used Salesforce Communities to increase customer satisfaction and maximize web issue resolution with integrated self-service communities.",
+        "industry": [],
+        "level": [],
+        "product": ["Salesforce Communities", "Service Cloud"],
+        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
+        "theme": ["Collaboration & Communities"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [10, 15],
+        "themeIds": [2],
+        "roleIds": [0, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hm8gAAA",
@@ -2482,6 +2516,23 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
+        "id": "a2q30000000guoCAAQ",
+        "sessionName": "Branding and Styling Your Salesforce Community",
+        "sessionAbstract": "Are you wondering what all the buzz is about Salesforce Communities? Or are you already using Communities but wishing there was a way to bring your Community look and feel more in line with your existing web presence? Join us to get a brief overview of Salesforce Communities to show you what's possible and then dive into a technical demonstration of the various options for taking your Salesforce Community to the next level with custom branding and styling.",
+        "industry": [],
+        "level": [],
+        "product": [],
+        "role": ["Developer"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [],
+        "roleIds": [4],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
         "id": "a2q30000000hsObAAI",
         "sessionName": "Breaking Down Silos And Building Communities",
         "sessionAbstract": "Engaging constituents in a collaborative environment so as to break down silos, increase organizational intelligence, and stimulate constituent participation is key in this social world. Learn how Jones University used Salesforce Communities to better engage their students through a intuitive virtual community, ultimately driving retention and an increase in degree completion.",
@@ -2584,40 +2635,6 @@
         "roleIds": [10, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000hldcAAA",
-        "sessionName": "Bucklar, Tom",
-        "sessionAbstract": "Connected products - How cat is using Salesforce 1 Platform to connect their products in the field to inspect, monitor and fluid analysis and protect the equipment. Global fleet connected to enable condition based services for their customers. Platform Benefits: Fast implementation scalable",
-        "industry": ["Manufacturing"],
-        "level": [],
-        "product": ["Force.com", "Salesforce1 Platform", "Service Cloud"],
-        "role": ["Service & Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [6],
-        "levelIds": [],
-        "productIds": [4, 14, 15],
-        "themeIds": [],
-        "roleIds": [20],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gweSAAQ",
-        "sessionName": "Build and Scale Your Knowledge Base with Desk.com",
-        "sessionAbstract": "Join us to learn how you can create a consistent playbook that all your employees/agents can pull from. An internal knowledge base is a centralized library for your agents to grab answers from so your every interaction with the customer is consistent and accurate at all times.",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000gweTAAQ",
         "sessionName": "Build and Scale Your Knowledge Base with Desk.com",
         "sessionAbstract": "Join us to learn how you can create a consistent playbook that all your employees/agents can pull from. An internal knowledge base is a centralized library for your agents to grab answers from so your every interaction with the customer is consistent and accurate at all times.",
@@ -2632,7 +2649,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gun2AAA",
@@ -2724,17 +2741,17 @@
         "sessionName": "Build Your Army of One: Using Marketing Automation with Limited Resources",
         "sessionAbstract": "Working with limited marketing resources? Join us to learn how marketing automation can optimize your marketing efforts and drive growth. Small business marketing leaders will share their best practices and let you in on the secrets to their most successful tactics for boosting pipeline.",
         "industry": [],
-        "level": [],
+        "level": ["Intermediate"],
         "product": ["Pardot"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Administrator", "Developer", "Marketing Professional"],
+        "theme": ["Marketing Automation", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [4],
         "productIds": [6],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [9, 17],
+        "roleIds": [0, 4, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gupLAAQ",
@@ -2989,7 +3006,7 @@
         "levelIds": [4],
         "productIds": [7, 8, 15],
         "themeIds": [8, 15],
-        "roleIds": [0, 2, 3, 4, 10, 21],
+        "roleIds": [0, 2, 3, 4, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxQAAAY",
@@ -3176,7 +3193,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gumzAAA",
@@ -3227,7 +3244,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [10],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hkTIAAY",
@@ -3278,7 +3295,7 @@
         "levelIds": [1],
         "productIds": [8, 10, 14, 15],
         "themeIds": [3, 5, 14, 15],
-        "roleIds": [2, 3, 4, 6, 8, 19, 21],
+        "roleIds": [2, 3, 4, 6, 8, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h6SKAAY",
@@ -3295,7 +3312,7 @@
         "levelIds": [],
         "productIds": [9, 10, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoqAAA",
@@ -3329,7 +3346,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqhAAA",
@@ -3346,7 +3363,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqaAAA",
@@ -3363,7 +3380,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [3],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hsOQAAY",
@@ -3414,7 +3431,7 @@
         "levelIds": [1],
         "productIds": [14],
         "themeIds": [3],
-        "roleIds": [2, 3, 6, 8, 10, 11, 19, 21],
+        "roleIds": [2, 3, 6, 8, 10, 11, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5HxAAI",
@@ -3482,7 +3499,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [2, 21],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gunCAAQ",
@@ -3635,7 +3652,7 @@
         "levelIds": [],
         "productIds": [4, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoMAAQ",
@@ -3686,7 +3703,7 @@
         "levelIds": [],
         "productIds": [3],
         "themeIds": [0],
-        "roleIds": [0, 3, 6, 10, 11, 15, 17, 18, 19, 21],
+        "roleIds": [0, 3, 6, 10, 11, 15, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000heFiAAI",
@@ -3757,23 +3774,6 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000hw8kAAA",
-        "sessionName": "Communities Branding and Customization With the New Community Designer",
-        "sessionAbstract": "Building a beautiful, customized, and responsive website for Self-Service and Communities has never been easier. Join us to learn how our next generation Community Designer (formerly Site.com) and Community Templates for Self-Service enable customers to build engaging mobile-optimized sites for Knowledge, Cases, and Communities. Learn what's new in the Winter '15 release and beyond.",
-        "industry": [],
-        "level": [],
-        "product": ["Salesforce Communities", "Service Cloud"],
-        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
-        "theme": ["Collaboration & Communities"],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [10, 15],
-        "themeIds": [2],
-        "roleIds": [0, 10, 21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000gw0hAAA",
         "sessionName": "Communities Branding and Customization with the New Community Designer",
         "sessionAbstract": "It's never been easier to create a visually enagaging community that enhances your brand and delivers a seamless user experience. Join us and learm how you can use our Community Designer to create, customize, and brand a thriving community.",
@@ -3789,6 +3789,23 @@
         "productIds": [10],
         "themeIds": [2],
         "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000hw8kAAA",
+        "sessionName": "Communities Branding and Customization With the New Community Designer",
+        "sessionAbstract": "Building a beautiful, customized, and responsive website for Self-Service and Communities has never been easier. Join us to learn how our next generation Community Designer (formerly Site.com) and Community Templates for Self-Service enable customers to build engaging mobile-optimized sites for Knowledge, Cases, and Communities. Learn what's new in the Winter '15 release and beyond.",
+        "industry": [],
+        "level": [],
+        "product": ["Salesforce Communities", "Service Cloud"],
+        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
+        "theme": ["Collaboration & Communities"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [10, 15],
+        "themeIds": [2],
+        "roleIds": [0, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0aAAA",
@@ -3842,9 +3859,9 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gw0mAAA",
+        "id": "a2q30000000gw0lAAA",
         "sessionName": "Community Creation and Rollout: A Simple Recipe for Success",
-        "sessionAbstract": "Join us to learn the primary steps to enabling Salesforce Customer and Partner Communities, while leveraging the full strength of the Salesforce1 Platform. Salesforce Communities customers and partners will share their stories and expertise to drive a smooth and rapid rollout that meets specific business metrics and ROI goals.",
+        "sessionAbstract": "Join us to learn how to leverage and enable Salesforce Customer and Partner Communities. You'll hear about the journey of a customer or partner, inspirational use cases, and how to drive measurable metrics and ROI. Transform your customer engagement and support organization to great success, and exceed goals and expectations.",
         "industry": [],
         "level": ["Any"],
         "product": ["Salesforce Communities"],
@@ -3859,9 +3876,9 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gw0lAAA",
+        "id": "a2q30000000gw0mAAA",
         "sessionName": "Community Creation and Rollout: A Simple Recipe for Success",
-        "sessionAbstract": "Join us to learn how to leverage and enable Salesforce Customer and Partner Communities. You'll hear about the journey of a customer or partner, inspirational use cases, and how to drive measurable metrics and ROI. Transform your customer engagement and support organization to great success, and exceed goals and expectations.",
+        "sessionAbstract": "Join us to learn the primary steps to enabling Salesforce Customer and Partner Communities, while leveraging the full strength of the Salesforce1 Platform. Salesforce Communities customers and partners will share their stories and expertise to drive a smooth and rapid rollout that meets specific business metrics and ROI goals.",
         "industry": [],
         "level": ["Any"],
         "product": ["Salesforce Communities"],
@@ -3929,7 +3946,7 @@
     }, {
         "id": "a2q30000000gz6vAAA",
         "sessionName": "Computer Telephony Integration: Don't Throw the Baby Out with the Bathwater!",
-        "sessionAbstract": "Join us to see and hear how Thomson Reuters and DeVry Education Group leveraged their existing infrastructures to surpass customer expectations and enable a better customer experience through computer telephony integration. A simple solution doesn't have to be a homogenous one. No forklift upgrades or product displacements required.",
+        "sessionAbstract": "Join us to see and hear how Thomson Reuters and DeVry Education Group leveraged their existing infrastructures using AMC Technology’s Contact Canvas to surpass customer expectations and enable a better customer experience through computer telephony integration. A simple solution doesn't have to be a homogenous one. No forklift upgrades or product displacements required.",
         "industry": [],
         "level": [],
         "product": ["Sales Cloud", "Service Cloud"],
@@ -3941,7 +3958,7 @@
         "levelIds": [],
         "productIds": [8, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h0CNAAY",
@@ -3958,7 +3975,7 @@
         "levelIds": [],
         "productIds": [13, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hvF5AAI",
@@ -4026,7 +4043,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [0, 1, 2, 3, 7, 8, 10, 13, 17, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgiAAE",
@@ -4043,7 +4060,7 @@
         "levelIds": [],
         "productIds": [0, 3, 6, 8, 9, 14, 15],
         "themeIds": [7, 8, 17],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyKCAAY",
@@ -4251,7 +4268,7 @@
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgWAAU",
-        "sessionName": "CPG Consumer Affairs with Bose and The Coca-Cola Company",
+        "sessionName": "CPG Consumer Affairs with The Coca-Cola Company",
         "sessionAbstract": "In this session, Bose and The Coca-Cola Company will share their experiences leveraging the Service Cloud to increase customer satisfaction while improving call center rep efficiency.",
         "industry": ["Retail & Consumer Goods"],
         "level": [],
@@ -4264,11 +4281,11 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
-        "roleIds": [10, 12, 18, 21],
+        "roleIds": [10, 12, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgVAAU",
-        "sessionName": "CPG Digital Marketing with L'Oreal",
+        "sessionName": "CPG Consumer Engagement with L'Oreal",
         "sessionAbstract": "New digital marketing technology is transforming the way consumer goods companies are engaging with consumers. In this session L'Oreal will share their experiences leveraging the Exact Target Marketing Cloud to better understand and interact with consumers in this new social world.",
         "industry": ["Retail & Consumer Goods"],
         "level": [],
@@ -4353,7 +4370,7 @@
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfwAAE",
-        "sessionName": "CPG Trade Promotion Management with Del Monte Fresh and Premier Nutrition",
+        "sessionName": "CPG Trade Promotion Management",
         "sessionAbstract": "Trade Promotion Management is one of the most complex and important business processes in any Consumer Goods company. Join us as Del Monte Fresh and Premier Nutrition share their experiences leveraging Salesforce ISV partners to gain better control and insights into their trade spend.",
         "industry": ["Retail & Consumer Goods"],
         "level": [],
@@ -4553,7 +4570,7 @@
         "levelIds": [],
         "productIds": [8, 9, 10, 13, 14, 15],
         "themeIds": [3, 8, 11],
-        "roleIds": [2, 3, 6, 8, 10, 12, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [2, 3, 6, 8, 10, 12, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gunzAAA",
@@ -4672,7 +4689,7 @@
         "levelIds": [],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdSwAAI",
@@ -4689,24 +4706,7 @@
         "levelIds": [],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gweVAAQ",
-        "sessionName": "Customer Service for Multiple Brands Made Easy with Desk.com",
-        "sessionAbstract": "Join us to learn how to manage multiple brands from your Desk.com account and provide a better self-service experience for your customers with separate help centers for each product line.",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweUAAQ",
@@ -4723,24 +4723,41 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gweVAAQ",
+        "sessionName": "Customer Service for Multiple Brands Made Easy with Desk.com",
+        "sessionAbstract": "Join us to learn how to manage multiple brands from your Desk.com account and provide a better self-service experience for your customers with separate help centers for each product line.",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39uAAA",
         "sessionName": "Customer Service is the Small Business Competitive Advantage",
         "sessionAbstract": "In fast growing companies, customer support goes beyond the traditional support team. From customer service agent to CEO, join us to find out how to get everyone involved, and why it's important!",
         "industry": [],
-        "level": [],
-        "product": ["Desk.com"],
-        "role": [],
+        "level": ["Intermediate"],
+        "product": ["Desk.com", "Service Cloud"],
+        "role": ["General Management", "Service and Support Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [2],
+        "levelIds": [4],
+        "productIds": [2, 15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [8, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hsONAAY",
@@ -4774,7 +4791,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [0],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iOgeAAE",
@@ -4851,7 +4868,7 @@
         "industry": [],
         "level": ["Intermediate"],
         "product": ["Data.com", "Sales Cloud", "Salesforce1 Platform", "Service Cloud"],
-        "role": [],
+        "role": ["Administrator", "Consultant", "Developer", "Operations", "Sales Operations"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
@@ -4859,7 +4876,7 @@
         "levelIds": [4],
         "productIds": [1, 8, 14, 15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 3, 4, 12, 18],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39fAAA",
@@ -4868,7 +4885,7 @@
         "industry": [],
         "level": ["Intermediate"],
         "product": ["Data.com", "Sales Cloud", "Salesforce1 Platform", "Service Cloud"],
-        "role": [],
+        "role": ["Administrator", "Consultant", "Developer", "Operations", "Sales Operations"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
@@ -4876,7 +4893,7 @@
         "levelIds": [4],
         "productIds": [1, 8, 14, 15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 3, 4, 12, 18],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoRAAQ",
@@ -5104,17 +5121,17 @@
         "sessionName": "Delighting Customers During Hyper Growth",
         "sessionAbstract": "As customers, our expectations have changed and we expect our experience with companies to be top notch. This makes it extremely important for companies to have the right strategy or technology in place to deliver. All of this is especially important for SMBs because competition is fierce and SMBs worked so hard to acquire each and every customer - they simply can’t afford to lose any of them to their competitors. Come learn the tools that will make your small business appear bigger and less risky in the minds of your customers and prospects.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
+        "role": ["Entrepreneur", "General Management", "Service and Support Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [5],
+        "roleIds": [5, 8, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyq8AAA",
@@ -5131,7 +5148,7 @@
         "levelIds": [5],
         "productIds": [15],
         "themeIds": [8, 18],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMg0AAE",
@@ -5165,7 +5182,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMg5AAE",
@@ -5199,7 +5216,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [0, 17],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMllAAE",
@@ -5216,7 +5233,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqEAAQ",
@@ -5233,7 +5250,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxQ8AAI",
@@ -5542,23 +5559,6 @@
         "roleIds": [2, 3, 4, 10],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gweXAAQ",
-        "sessionName": "Desk.com 101: Get Going in 20 Minutes or Less",
-        "sessionAbstract": "Get Started with Desk.com! Join us to hear from one of our Customer WOW Specialists and get up and running with Desk.com in no time!",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000gweWAAQ",
         "sessionName": "Desk.com 101: Get Going in 20 Minutes or Less",
         "sessionAbstract": "Get Started with Desk.com! Join us to hear from one of our Customer WOW Specialists and get up and running with Desk.com in no time!",
@@ -5573,7 +5573,24 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [10, 17],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gweXAAQ",
+        "sessionName": "Desk.com 101: Get Going in 20 Minutes or Less",
+        "sessionAbstract": "Get Started with Desk.com! Join us to hear from one of our Customer WOW Specialists and get up and running with Desk.com in no time!",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweZAAQ",
@@ -5590,7 +5607,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweYAAQ",
@@ -5607,24 +5624,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000h39rAAA",
-        "sessionName": "Desk.com 101: Out-of-the-Box and Up & Running with Support",
-        "sessionAbstract": "Just one hour to take you from zero to awesome. Join us to learn how you can transform your customer service by getting up and running with Desk.com in no time.",
-        "industry": [],
-        "level": [],
-        "product": ["Desk.com"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [2],
-        "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdQhAAI",
@@ -5641,24 +5641,24 @@
         "levelIds": [],
         "productIds": [2],
         "themeIds": [0, 17],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000h39vAAA",
-        "sessionName": "Desk.com and Salesforce: Joining Forces to Drive Customer Success",
-        "sessionAbstract": "Deliver a consistently awesome customer experience by allowing sales and support to share a complete view of the customer. Join us to learn how customers are using Sales Cloud and Desk.com to grow and succeed.",
+        "id": "a2q30000000h39rAAA",
+        "sessionName": "Desk.com 101: Out-of-the-Box and Up & Running with Support",
+        "sessionAbstract": "Just one hour to take you from zero to awesome. Join us to learn how you can transform your customer service by getting up and running with Desk.com in no time.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com"],
-        "role": [],
+        "role": ["Service and Support Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdSuAAI",
@@ -5675,7 +5675,24 @@
         "levelIds": [],
         "productIds": [2, 8],
         "themeIds": [7, 13],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000h39vAAA",
+        "sessionName": "Desk.com and Salesforce: Joining Forces to Drive Customer Success",
+        "sessionAbstract": "Deliver a consistently awesome customer experience by allowing sales and support to share a complete view of the customer. Join us to learn how customers are using Sales Cloud and Desk.com to grow and succeed.",
+        "industry": [],
+        "level": ["Any"],
+        "product": ["Desk.com", "Service Cloud"],
+        "role": ["General Management", "Service and Support Professional"],
+        "theme": ["IT Help Desk", "Small & Medium Business"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [1],
+        "productIds": [2, 15],
+        "themeIds": [6, 17],
+        "roleIds": [8, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweKAAQ",
@@ -5692,24 +5709,7 @@
         "levelIds": [0],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gweaAAA",
-        "sessionName": "Desk.com Productivity Tools: Practical Tips for Superfast Customer Service",
-        "sessionAbstract": "Happy Agents = Happy Customers. Join us to learn how to enable your agents with everything they need to deliver amazing service at every point of the customer interaction.",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gwebAAA",
@@ -5726,24 +5726,24 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000h3AzAAI",
-        "sessionName": "Desperately Seeking Sales Talent: Uncover the Experts in Your Company",
-        "sessionAbstract": "Ever wish you could quickly find the experts in your organization? Want a way to showcase individual talents or abilities? With Skills, employees can discover, collaborate with, and endorse others based on their knowledge. Come hear from our product team about this exciting new feature and gain an understanding of some of the key use cases around forming high performing deal teams, routing leads by skill group, enhancing sales performance, and how to increase the overall value of your Salesforce investment by using Skills.",
+        "id": "a2q30000000gweaAAA",
+        "sessionName": "Desk.com Productivity Tools: Practical Tips for Superfast Customer Service",
+        "sessionAbstract": "Happy Agents = Happy Customers. Join us to learn how to enable your agents with everything they need to deliver amazing service at every point of the customer interaction.",
         "industry": [],
         "level": ["Beginner"],
-        "product": ["Sales Cloud", "Work.com"],
-        "role": ["Administrator", "Executive", "General Management", "IT Professional", "Operations", "Sales Operations", "Sales Professional"],
-        "theme": ["Sales Productivity", "User Experience"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
         "levelIds": [2],
-        "productIds": [8, 16],
-        "themeIds": [13, 21],
-        "roleIds": [0, 6, 8, 10, 12, 18, 19],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h3B0AAI",
@@ -5761,6 +5761,23 @@
         "productIds": [8, 15, 16],
         "themeIds": [2, 12, 13, 21],
         "roleIds": [0, 8, 10, 18, 19],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000h3AzAAI",
+        "sessionName": "Desperately Seeking Sales Talent: Uncover the Experts in Your Company",
+        "sessionAbstract": "Ever wish you could quickly find the experts in your organization? Want a way to showcase individual talents or abilities? With Skills, employees can discover, collaborate with, and endorse others based on their knowledge. Come hear from our product team about this exciting new feature and gain an understanding of some of the key use cases around forming high performing deal teams, routing leads by skill group, enhancing sales performance, and how to increase the overall value of your Salesforce investment by using Skills.",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Sales Cloud", "Work.com"],
+        "role": ["Administrator", "Executive", "General Management", "IT Professional", "Operations", "Sales Operations", "Sales Professional"],
+        "theme": ["Sales Productivity", "User Experience"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [8, 16],
+        "themeIds": [13, 21],
+        "roleIds": [0, 6, 8, 10, 12, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gup4AAA",
@@ -5913,7 +5930,7 @@
         "levelIds": [1],
         "productIds": [],
         "themeIds": [15],
-        "roleIds": [0, 3, 10, 12, 17, 21],
+        "roleIds": [0, 3, 10, 12, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gunoAAA",
@@ -5937,17 +5954,17 @@
         "sessionName": "Disruptive Startups: How Innovative Leaders Are Shaking Up Industries",
         "sessionAbstract": "Technology has leveled the playing field for small and medium businesses. Whether the idea is about improving people's lives, making things accessible, or green technology, there's nothing like a good little start-up tale of creative disruption to deliver us from something old and tired. Join us to hear successful disruptive founders discuss what made them successful and what contributed to the growth of their business.",
         "industry": [],
-        "level": [],
+        "level": ["Intermediate"],
         "product": ["Desk.com", "Force.com", "Sales Cloud", "Salesforce Chatter", "Salesforce Communities", "Salesforce1 Platform", "Service Cloud", "Work.com"],
-        "role": ["Developer", "Entrepreneur"],
+        "role": ["Developer", "Entrepreneur", "Executive"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [4],
         "productIds": [2, 4, 8, 9, 10, 14, 15, 16],
         "themeIds": [17],
-        "roleIds": [4, 5],
+        "roleIds": [4, 5, 6],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5H0AAI",
@@ -6270,7 +6287,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [2],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIILAA2",
@@ -6304,7 +6321,7 @@
         "levelIds": [],
         "productIds": [0, 3, 8, 15],
         "themeIds": [0, 2, 3, 17],
-        "roleIds": [6, 8, 17, 21],
+        "roleIds": [6, 8, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIPAA2",
@@ -6491,7 +6508,7 @@
         "levelIds": [1],
         "productIds": [9, 10, 13, 14],
         "themeIds": [0, 2, 3, 5, 8, 11],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIOsAAM",
@@ -6508,7 +6525,7 @@
         "levelIds": [],
         "productIds": [0, 9, 10, 11, 13, 14, 15, 16],
         "themeIds": [0, 1, 2, 3, 5, 7, 8, 11, 21],
-        "roleIds": [0, 2, 3, 4, 6, 9, 10, 12, 21],
+        "roleIds": [0, 2, 3, 4, 6, 9, 10, 12, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000grklAAA",
@@ -6559,7 +6576,7 @@
         "levelIds": [4],
         "productIds": [8, 15],
         "themeIds": [8],
-        "roleIds": [0, 2, 3, 10, 21],
+        "roleIds": [0, 2, 3, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hpeFAAQ",
@@ -6610,7 +6627,7 @@
         "levelIds": [],
         "productIds": [8, 14],
         "themeIds": [13],
-        "roleIds": [10, 18, 19, 21],
+        "roleIds": [10, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000grkMAAQ",
@@ -6712,7 +6729,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i5brAAA",
@@ -6753,17 +6770,17 @@
         "sessionName": "Enhance your customer's experience with Customer Communities",
         "sessionAbstract": "Providing an online community to service your customers has become essential in today's social world. However, customers are looking for coherent self-service and community experiences, providing a single source of truth regardless of their entry into the system. Join us to learn how Salesforce Communities helps customers build an integrated self-service and community experience to maximize satisfied web customer service resolutions.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Salesforce Communities"],
-        "role": [],
+        "role": ["Administrator", "Developer", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [10],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 4, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h413AAA",
@@ -6916,7 +6933,7 @@
         "levelIds": [],
         "productIds": [3, 15],
         "themeIds": [0, 1, 2, 3, 8, 10],
-        "roleIds": [6, 8, 10, 17, 21],
+        "roleIds": [6, 8, 10, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hn92AAA",
@@ -6967,7 +6984,7 @@
         "levelIds": [],
         "productIds": [4],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5GyAAI",
@@ -7086,7 +7103,7 @@
         "levelIds": [],
         "productIds": [8, 10, 13, 14, 15],
         "themeIds": [3, 5],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iPxdAAE",
@@ -7103,7 +7120,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [3, 10, 13, 21],
-        "roleIds": [0, 4, 5, 6, 8, 15, 17, 18, 21],
+        "roleIds": [0, 4, 5, 6, 8, 15, 17, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgBAAU",
@@ -7127,14 +7144,14 @@
         "sessionName": "Five Developer Tips Every Admin Needs To Know",
         "sessionAbstract": "You've got your salesforce.com org humming. You are the master of button-click admins. Join us to learn how you can leverage the power of the Force.com platform to build your own social enterprise. At the end of this session, you will walk away with five developer tips and tricks, all possible directly via the browser, that you can put into practice as soon as you get back to the office.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Force.com", "Salesforce Chatter"],
         "role": ["Administrator", "Developer"],
         "theme": [],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [4, 9],
         "themeIds": [],
         "roleIds": [0, 4],
@@ -7212,17 +7229,17 @@
         "sessionName": "Five Ways to Use Chatter to Accelerate Small Business Success",
         "sessionAbstract": "Change the way you track sales interactions, swarm on support issues, and connect with employees and customers. Join us to see how you can use Chatter to increase productivity and enhance adoption by tracking communications in context, swarming on support issues, collaborating in private and public groups, sharing files, and building long term business success.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Salesforce Chatter"],
-        "role": [],
+        "role": ["Administrator", "Executive", "General Management", "Operations", "Sales Operations", "Sales Professional", "Service and Support Professional"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [9],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 6, 8, 12, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000grkjAAA",
@@ -7239,7 +7256,7 @@
         "levelIds": [0],
         "productIds": [8, 13, 14, 15],
         "themeIds": [8],
-        "roleIds": [6, 8, 10, 21],
+        "roleIds": [6, 8, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gupZAAQ",
@@ -7341,7 +7358,7 @@
         "levelIds": [1],
         "productIds": [8, 13],
         "themeIds": [10],
-        "roleIds": [0, 3, 5, 6, 8, 9, 10, 11, 13, 14, 15, 17, 19, 21],
+        "roleIds": [0, 3, 5, 6, 8, 9, 10, 11, 13, 14, 15, 17, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5GcAAI",
@@ -7375,7 +7392,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [3, 10],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMeVAAU",
@@ -7443,7 +7460,7 @@
         "levelIds": [0],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIgAAM",
@@ -7467,34 +7484,34 @@
         "sessionName": "From Idea to Acquisition: Positioning Yourself for Exit",
         "sessionAbstract": "Join our C level executives panel of fast growing companies that have taken their business through a successful acquisition. Positioning your business for exit is less of a science but more of an art. This panel is aimed at entrepreneurs and aspiring entrepreneurs who are looking to learn about how to manage a fast growing business, position themselves for success, and ways to get the highest evaluation even during economic downturns. If you have an amazing startup or are already a small business owner and looking to take it to the next level, join us for what will be a lively and interactive session.",
         "industry": [],
-        "level": [],
+        "level": ["Advanced"],
         "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
+        "role": ["Entrepreneur", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [0],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [5],
+        "roleIds": [5, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmBuAAI",
         "sessionName": "From Idea to IPO 2014: Funding and Accelerating your Start Up",
         "sessionAbstract": "Join us as a world class panel of investors and CXOs from pre-IPO and well-funded start ups -- boot strapped start ups to venture backed -- show you the steps to finding financing and growing your business successfully! A follow up from DF13's successful session, we will have an intimate and frank discussion regarding the successes and lessons learned from entrepreneurs who have been 'on the ground.'",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
+        "role": ["Entrepreneur", "Executive"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2],
         "themeIds": [17],
-        "roleIds": [5],
+        "roleIds": [5, 6],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0VAAQ",
@@ -7681,7 +7698,7 @@
         "levelIds": [1],
         "productIds": [8, 10, 14, 15],
         "themeIds": [3, 5],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h11sAAA",
@@ -7715,7 +7732,7 @@
         "levelIds": [],
         "productIds": [4, 14],
         "themeIds": [3, 5, 14],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 17, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 17, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hm5IAAQ",
@@ -7767,6 +7784,23 @@
         "productIds": [3, 8, 15],
         "themeIds": [],
         "roleIds": [10, 11],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000iV9mAAE",
+        "sessionName": "Get Connected! Salesforce ERP Integration made easy",
+        "sessionAbstract": "Amplify the value of any Salesforce app by connecting to the critical data in your ERP back office and legacy apps. Hear real world lessons and best practices of how customers like Virgin Airlines and SIKA integrate their ERP and legacy apps with Salesforce to transform their business. Learn how salesforce integration allows you to more effectivly enable your employees, collaborate with your partners and engage your customers in new ways. \n\nJoin us for real customer stories, a live demo, and an interactive Q and A",
+        "industry": [],
+        "level": [],
+        "product": [],
+        "role": ["Executive", "IT Professional", "SI Consulting Partner", "Sales Operations", "Service and Support Professional"],
+        "theme": ["AppExchange", "Mobile", "Sales Productivity"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [1, 10, 13],
+        "roleIds": [6, 10, 17, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxPuAAI",
@@ -8113,34 +8147,34 @@
         "sessionName": "Grow Baby Grow: Using Salesforce to Fuel Small Business Growth",
         "sessionAbstract": "You're a small business that's getting bigger every day. But how do you scale up your Sales and Marketing efforts to maximize that growth? Join us to learn how small business customers are making the most of quality data, social insights, and cloud solutions to get bigger, faster.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud"],
-        "role": [],
+        "role": ["Consultant", "Entrepreneur", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [3, 5, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39SAAQ",
         "sessionName": "Grow Baby Grow: Using Salesforce to Fuel Small Business Growth (2)",
         "sessionAbstract": "You're a small business that's getting bigger every day. But how do you scale up your Sales and Marketing efforts to maximize that growth? Join us to learn how small business customers are making the most of quality data, social insights, and cloud solutions to get bigger, faster.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud"],
-        "role": [],
+        "role": ["Consultant", "Entrepreneur", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [3, 5, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoeAAA",
@@ -8211,6 +8245,23 @@
         "roleIds": [0, 5, 6, 8, 10, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
+        "id": "a2q30000000iRLsAAM",
+        "sessionName": "Grow Your Own: Developing Salesforce Talent Through Training",
+        "sessionAbstract": "Finding Salesforce talent can be difficult and the marketplace is expensive. Wouldn't it be better if you developed the talent in-house? You will hear how Cisco leveraged Salesforce University to put together a program that helped in-house talent gain the skills that they needed to support and develop their salesforce implementation. From training to certification to recognition, Cisco will share their robust program so you can grow your own as well!",
+        "industry": [],
+        "level": ["Intermediate"],
+        "product": [],
+        "role": [],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [4],
+        "productIds": [],
+        "themeIds": [],
+        "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
         "id": "a2q30000000hd54AAA",
         "sessionName": "Grow Your Pipeline with Data.com Prospector",
         "sessionAbstract": "Are you looking to accelerate growth of your sales pipeline? Learn why Data.com Prospector customers realize dramatic improvements in pipeline and opportunities. You will see how easy it is to find the decision makers and companies that meet your specific criteria, as well as to add that information into your Salesforce instance. This session will include desktop and mobile prospecting scenarios.",
@@ -8245,23 +8296,6 @@
         "roleIds": [0, 8, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gweOAAQ",
-        "sessionName": "Growing Faster with Desk.com",
-        "sessionAbstract": "Personalize every Customer Interaction, at speed. Productivity tools in Desk.com allow agents to close cases faster. Join us to learn how you can use tools like macros, bulk editing, and many more to respond to your customers faster than ever before.",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000gwePAAQ",
         "sessionName": "Growing Faster with Desk.com",
         "sessionAbstract": "Personalize every Customer Interaction, at speed. Productivity tools in Desk.com allow agents to close cases faster. Join us to learn how you can use tools like macros, bulk editing, and many more to respond to your customers faster than ever before.",
@@ -8276,7 +8310,24 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gweOAAQ",
+        "sessionName": "Growing Faster with Desk.com",
+        "sessionAbstract": "Personalize every Customer Interaction, at speed. Productivity tools in Desk.com allow agents to close cases faster. Join us to learn how you can use tools like macros, bulk editing, and many more to respond to your customers faster than ever before.",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfeAAE",
@@ -8735,7 +8786,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gtkiAAA",
@@ -9177,7 +9228,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h02BAAQ",
@@ -9296,24 +9347,7 @@
         "levelIds": [],
         "productIds": [10, 15],
         "themeIds": [2],
-        "roleIds": [0, 10, 21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gwecAAA",
-        "sessionName": "Help Customers Help Themselves with Desk.com's Simple Self-Service",
-        "sessionAbstract": "The happiest customers are those that can help themselves! Join us to learn how you can use customizable templates and build your very own intuitive help center - branded to match your company - in just minutes. Anyone can build a help center, even those who do not know how to code!",
-        "industry": [],
-        "level": ["Beginner"],
-        "product": ["Desk.com"],
-        "role": ["Service and Support Professional"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [2],
-        "productIds": [2],
-        "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [0, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gwedAAA",
@@ -9330,7 +9364,24 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gwecAAA",
+        "sessionName": "Help Customers Help Themselves with Desk.com's Simple Self-Service",
+        "sessionAbstract": "The happiest customers are those that can help themselves! Join us to learn how you can use customizable templates and build your very own intuitive help center - branded to match your company - in just minutes. Anyone can build a help center, even those who do not know how to code!",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gypgAAA",
@@ -9347,7 +9398,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5GsAAI",
@@ -9398,7 +9449,7 @@
         "levelIds": [1],
         "productIds": [],
         "themeIds": [15],
-        "roleIds": [0, 3, 10, 12, 17, 21],
+        "roleIds": [0, 3, 10, 12, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gupOAAQ",
@@ -9466,7 +9517,7 @@
         "levelIds": [],
         "productIds": [3, 8, 15],
         "themeIds": [2, 14, 21],
-        "roleIds": [12, 18, 21],
+        "roleIds": [12, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gvA0AAI",
@@ -9541,17 +9592,17 @@
         "sessionName": "How Leadership Helps Move Adoption Forward",
         "sessionAbstract": "You've invested in Salesforce and built your foundation. Now you need to protect your investment and consider the ongoing strategies for maintaining your success. Join us to learn how establishing formal governance, and building a process around training and change management can help you drive extraordinary ROI and get the most out of your CRM. This session is a must for every customer.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Data.com", "Sales Cloud", "Salesforce1 Platform", "Service Cloud"],
-        "role": [],
+        "role": ["Administrator", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [1, 8, 14, 15],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h1IFAAY",
@@ -9619,7 +9670,7 @@
         "levelIds": [],
         "productIds": [8],
         "themeIds": [13, 14, 17],
-        "roleIds": [12, 18, 19, 21],
+        "roleIds": [12, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i3d0AAA",
@@ -9636,7 +9687,7 @@
         "levelIds": [],
         "productIds": [8, 9, 10],
         "themeIds": [2, 13, 14],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h3BRAAY",
@@ -9772,7 +9823,7 @@
         "levelIds": [],
         "productIds": [15],
         "themeIds": [2, 13, 14],
-        "roleIds": [9, 18, 19, 21],
+        "roleIds": [9, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hm1QAAQ",
@@ -9823,7 +9874,7 @@
         "levelIds": [],
         "productIds": [3, 15],
         "themeIds": [2, 9, 14],
-        "roleIds": [11, 18, 19, 21],
+        "roleIds": [11, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdSVAAY",
@@ -9908,7 +9959,7 @@
         "levelIds": [],
         "productIds": [8, 14],
         "themeIds": [2, 13, 14],
-        "roleIds": [0, 4, 18, 19, 21],
+        "roleIds": [0, 4, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h3BPAAY",
@@ -9959,7 +10010,7 @@
         "levelIds": [],
         "productIds": [13, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMecAAE",
@@ -9983,17 +10034,17 @@
         "sessionName": "How to Dominate Twitter and Facebook for Social Customer Service",
         "sessionAbstract": "In the era of social support, providing responsive customer service means being everywhere your customers are. Join us to learn from Desk.com and Service Cloud customers that are harnessing the explosive growth of social media to WOW their customers while building their brand.",
         "industry": [],
-        "level": [],
+        "level": ["Advanced"],
         "product": ["Desk.com", "Service Cloud"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["General Management", "Marketing Professional", "Service and Support Professional"],
+        "theme": ["Emerging Trends", "Small & Medium Business", "Social Marketing"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [0],
         "productIds": [2, 15],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [3, 17, 18],
+        "roleIds": [8, 11, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000heGAAAY",
@@ -10032,7 +10083,7 @@
     }, {
         "id": "a2q30000000grkSAAQ",
         "sessionName": "How To Mobilize Your Organization Around Transformation",
-        "sessionAbstract": "You have a significant transformation initiative that will leverage Salesforce. Where do you start? How do you get mobilized? Join us to learn first-hand how large enterprise customers organized around their Cloud transformation programs.",
+        "sessionAbstract": "You have a significant transformation initiative that will leverage Salesforce. Where do you start? How do you get mobilized? Join us to learn first-hand how Cisco Systems and GE Healthcare organized around their cloud transformation programs.",
         "industry": [],
         "level": ["Advanced"],
         "product": ["Sales Cloud", "Service Cloud"],
@@ -10146,7 +10197,7 @@
         "levelIds": [],
         "productIds": [13, 14],
         "themeIds": [10],
-        "roleIds": [19, 21],
+        "roleIds": [19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxPoAAI",
@@ -10163,7 +10214,7 @@
         "levelIds": [1],
         "productIds": [8, 9, 10, 13, 14],
         "themeIds": [1, 3, 8],
-        "roleIds": [1, 2, 3, 5, 6, 8, 10, 12, 14, 16, 17, 21],
+        "roleIds": [1, 2, 3, 5, 6, 8, 10, 12, 14, 16, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hz9pAAA",
@@ -10214,7 +10265,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [21],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyq4AAA",
@@ -10231,7 +10282,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [21],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqdAAA",
@@ -10248,7 +10299,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [10, 18],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqcAAA",
@@ -10265,7 +10316,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [0],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoKAAQ",
@@ -10443,16 +10494,16 @@
         "sessionAbstract": "Challenges with Adoption? Join us to learn how other small business customers have established a vision for Salesforce success that includes identifying an executive sponsor, creating a consistent sales model, and identifying sticky use cases to keep sales in the app, resulting in greater business success.",
         "industry": [],
         "level": ["Intermediate"],
-        "product": ["Sales Cloud"],
-        "role": [],
+        "product": ["Sales Cloud", "Salesforce1 Platform"],
+        "role": ["Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
         "levelIds": [4],
-        "productIds": [8],
+        "productIds": [8, 14],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39QAAQ",
@@ -10461,7 +10512,7 @@
         "industry": [],
         "level": ["Intermediate"],
         "product": ["Sales Cloud"],
-        "role": [],
+        "role": ["Administrator", "Entrepreneur", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
@@ -10469,7 +10520,7 @@
         "levelIds": [4],
         "productIds": [8],
         "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [0, 5, 6, 8],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqPAAQ",
@@ -10486,7 +10537,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hkT2AAI",
@@ -10503,7 +10554,7 @@
         "levelIds": [4],
         "productIds": [8, 13, 14],
         "themeIds": [0, 3],
-        "roleIds": [6, 12, 19, 21],
+        "roleIds": [6, 12, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfYAAU",
@@ -10622,7 +10673,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [3],
-        "roleIds": [6, 8, 17, 21],
+        "roleIds": [6, 8, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfpAAE",
@@ -10656,7 +10707,7 @@
         "levelIds": [4],
         "productIds": [7, 8, 15],
         "themeIds": [6, 8],
-        "roleIds": [0, 3, 10, 21],
+        "roleIds": [0, 3, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5H7AAI",
@@ -10748,17 +10799,17 @@
         "sessionName": "Integrations Made Easy for SMBs",
         "sessionAbstract": "What can integration do for you? Join us to learn how other small businesses are quickly and easily leveraging the Salesforce1 Platform to connect Salesforce with their on-premise applications, third-party apps, and external cloud services.",
         "industry": [],
-        "level": [],
+        "level": ["Advanced"],
         "product": ["AppExchange"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Administrator", "Consultant", "Developer", "SI Consulting Partner"],
+        "theme": ["Integration", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [0],
         "productIds": [0],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [7, 17],
+        "roleIds": [0, 3, 4, 17],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gupaAAA",
@@ -11098,7 +11149,7 @@
         "levelIds": [1],
         "productIds": [8, 15],
         "themeIds": [7, 8, 13],
-        "roleIds": [6, 8, 10, 12, 13, 18, 19, 21],
+        "roleIds": [6, 8, 10, 12, 13, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxQ3AAI",
@@ -11353,7 +11404,7 @@
         "levelIds": [1],
         "productIds": [13, 15],
         "themeIds": [10],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gun5AAA",
@@ -11387,7 +11438,7 @@
         "levelIds": [],
         "productIds": [8],
         "themeIds": [],
-        "roleIds": [19, 21],
+        "roleIds": [19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gunxAAA",
@@ -11506,7 +11557,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [2, 10],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5IAAAY",
@@ -11540,7 +11591,7 @@
         "levelIds": [4],
         "productIds": [8, 10, 15],
         "themeIds": [2, 6, 8],
-        "roleIds": [0, 2, 3, 4, 10, 21],
+        "roleIds": [0, 2, 3, 4, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iAkJAAU",
@@ -11557,7 +11608,7 @@
         "levelIds": [],
         "productIds": [7],
         "themeIds": [2, 3, 8, 10, 13, 14, 22],
-        "roleIds": [1, 3, 5, 8, 9, 12, 17, 18, 21],
+        "roleIds": [1, 3, 5, 8, 9, 12, 17, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0XAAQ",
@@ -11659,7 +11710,7 @@
         "levelIds": [2],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMl4AAE",
@@ -11676,7 +11727,7 @@
         "levelIds": [2],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqUAAQ",
@@ -11693,7 +11744,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgfAAE",
@@ -11812,7 +11863,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [2, 21],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyq6AAA",
@@ -11829,7 +11880,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [2, 21],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hvwQAAQ",
@@ -12118,7 +12169,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweeAAA",
@@ -12135,7 +12186,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hkTBAAY",
@@ -12152,24 +12203,24 @@
         "levelIds": [4],
         "productIds": [0, 7, 8, 14, 15],
         "themeIds": [0, 1],
-        "roleIds": [0, 3, 4, 10, 12, 18, 21],
+        "roleIds": [0, 3, 4, 10, 12, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39ZAAQ",
         "sessionName": "Make Your Business Scale & Grow Faster with Automation",
         "sessionAbstract": "Small business, big brand. Join us to learn how other small business customers are using Salesforce automation to think big, compete on equal footing with large enterprises, and do more with less.",
         "industry": [],
-        "level": [],
+        "level": ["Intermediate"],
         "product": ["Salesforce1 Platform"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Administrator", "Developer", "General Management", "IT Professional"],
+        "theme": ["Marketing Automation", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [4],
         "productIds": [14],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [9, 17],
+        "roleIds": [0, 4, 8, 10],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxe3AAA",
@@ -12203,7 +12254,7 @@
         "levelIds": [4],
         "productIds": [8, 13, 15],
         "themeIds": [10],
-        "roleIds": [0, 3, 4, 6, 15, 18, 19, 21],
+        "roleIds": [0, 3, 4, 6, 15, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hkTNAAY",
@@ -12373,7 +12424,7 @@
         "levelIds": [],
         "productIds": [0, 8, 14],
         "themeIds": [],
-        "roleIds": [19, 21],
+        "roleIds": [19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIITAA2",
@@ -12458,7 +12509,7 @@
         "levelIds": [],
         "productIds": [0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
         "themeIds": [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 13, 15, 16, 17, 18, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgZAAU",
@@ -12475,7 +12526,7 @@
         "levelIds": [],
         "productIds": [0, 3, 4, 6, 7, 9, 10, 13, 14, 15],
         "themeIds": [1, 2, 3, 6, 8, 9, 10, 16, 18, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gdVlAAI",
@@ -12509,7 +12560,7 @@
         "levelIds": [5],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [10, 21],
+        "roleIds": [10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5IEAAY",
@@ -12533,16 +12584,16 @@
         "sessionName": "Maximize Your Agents' Productity: See HOW with Service Cloud",
         "sessionAbstract": "Join us as customers share how the Service Cloud helped them improve key metrics like agent productivity, by leveraging a single source of Knowledge at their fingertips and gaining a 360-degree view of the customer. Learn about the future of agent productivity with predictive intelligence.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Service Cloud"],
         "role": [],
-        "theme": ["Small & Medium Business"],
+        "theme": ["IT Help Desk", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [15],
-        "themeIds": [17],
+        "themeIds": [6, 17],
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
@@ -12560,7 +12611,7 @@
         "levelIds": [],
         "productIds": [8, 13, 15],
         "themeIds": [],
-        "roleIds": [19, 21],
+        "roleIds": [19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gtrJAAQ",
@@ -12679,7 +12730,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMggAAE",
@@ -12696,7 +12747,7 @@
         "levelIds": [1],
         "productIds": [4, 8, 13, 14, 15],
         "themeIds": [7, 8, 10, 11, 13, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hUoXAAU",
@@ -12839,16 +12890,16 @@
         "sessionName": "Mobile Self-Service: The Next Generation of Customer Service",
         "sessionAbstract": "More than 30% of your customers are using mobile self-service today. Join us to learn how you can deploy mobile self-service to your customers quickly and easily. We'll cover what's possible today and share our forward-looking roadmap on what's coming in the near future.",
         "industry": [],
-        "level": [],
-        "product": ["Service Cloud"],
+        "level": ["Intermediate"],
+        "product": ["Salesforce1 Mobile", "Salesforce1 Platform", "Service Cloud"],
         "role": [],
-        "theme": ["Small & Medium Business"],
+        "theme": ["Emerging Trends", "Mobile", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [15],
-        "themeIds": [17],
+        "levelIds": [4],
+        "productIds": [13, 14, 15],
+        "themeIds": [3, 10, 17],
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
@@ -12900,7 +12951,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [3, 17],
-        "roleIds": [8, 10, 19, 21],
+        "roleIds": [8, 10, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hpbUAAQ",
@@ -12917,7 +12968,7 @@
         "levelIds": [],
         "productIds": [4, 9, 13],
         "themeIds": [],
-        "roleIds": [10, 21],
+        "roleIds": [10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gvHQAAY",
@@ -12934,7 +12985,7 @@
         "levelIds": [],
         "productIds": [4, 14],
         "themeIds": [],
-        "roleIds": [10, 21],
+        "roleIds": [10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIYAA2",
@@ -13002,7 +13053,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hm9ZAAQ",
@@ -13036,7 +13087,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyK0AAI",
@@ -13070,7 +13121,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [3],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i5blAAA",
@@ -13172,7 +13223,7 @@
         "levelIds": [],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i5bmAAA",
@@ -13194,19 +13245,36 @@
     }, {
         "id": "a2q30000000gyplAAA",
         "sessionName": "On the Pulse: Improving Access to Public Sector Health",
-        "sessionAbstract": "You can hail a cab, get your laundry done, and order dinner all from your phone - so why not access healthcare and public services, too? Learn how states across the countryu are connecting citizens with healthcare services in a whole new way.",
+        "sessionAbstract": "You can hail a cab, order dinner and pay your bills any where and any time - so why not access healthcare and public services, too? Learn how states across the country are connecting citizens with healthcare services in a whole new way.",
         "industry": ["Public Sector"],
         "level": ["Any"],
         "product": ["Service Cloud"],
-        "role": ["Service and Support Professional"],
-        "theme": ["Mobile"],
+        "role": [],
+        "theme": ["Open Innovation"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [10],
         "levelIds": [1],
         "productIds": [15],
-        "themeIds": [10],
-        "roleIds": [21],
+        "themeIds": [11],
+        "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000gweSAAQ",
+        "sessionName": "On the Road to Continuous Delivery at Desk.com",
+        "sessionAbstract": "Join us to learn how you can create a consistent playbook that all your employees/agents can pull from. An internal knowledge base is a centralized library for your agents to grab answers from so your every interaction with the customer is consistent and accurate at all times.",
+        "industry": [],
+        "level": ["Beginner"],
+        "product": ["Desk.com"],
+        "role": ["Service and Support Professional"],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [2],
+        "productIds": [2],
+        "themeIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxe1AAA",
@@ -13224,6 +13292,23 @@
         "productIds": [8],
         "themeIds": [13, 14],
         "roleIds": [9, 12, 13, 18, 19],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000iUEPAA2",
+        "sessionName": "One Government. One Platform.",
+        "sessionAbstract": "Discover how a vision of unified government supported by our customer success platform is shaping a renewed partnership between citizens, government and business.",
+        "industry": ["Public Sector"],
+        "level": [],
+        "product": ["Salesforce1 Platform"],
+        "role": [],
+        "theme": ["Emerging Trends"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [10],
+        "levelIds": [],
+        "productIds": [14],
+        "themeIds": [3],
+        "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gup9AAA",
@@ -13383,17 +13468,17 @@
         "sessionName": "Overcoming the Top 3 SMB Challenges with Marketing Automation",
         "sessionAbstract": "Often, marketing's biggest challenges are long sales cycles, complex decision-making processes, and multiple stakeholders. There is increasing pressure on marketing professionals to find the most qualified prospects and build relationships with them before the lead is passed to Sales. Join us to learn how marketing automation can help organizations consolidate, streamline, and better manage campaigns that were once cumbersome to track and administer.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Pardot"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Administrator", "Developer", "General Management", "Marketing Professional"],
+        "theme": ["Marketing Automation", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [6],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [9, 17],
+        "roleIds": [0, 4, 8, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmLfAAI",
@@ -13479,6 +13564,23 @@
         "productIds": [6, 8],
         "themeIds": [9, 10, 12, 13, 17],
         "roleIds": [0, 11, 18, 19],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000iVIUAA2",
+        "sessionName": "Parker Harris's True to the Core: What’s Next for Our Core Products",
+        "sessionAbstract": "Back by popular demand, we're excited to hold the True to the Core Customer Forum again this year. Hear from salesforce.com co-founder and EVP of Technology, Parker Harris, about how we are investing in our core products, from contacts and tasks, to sales teams and configuration. Join us for this open forum with the product leaders at salesforce.com and your most passionate fellow customers.",
+        "industry": [],
+        "level": ["Intermediate"],
+        "product": ["Force.com", "Heroku", "Sales Cloud", "Salesforce1 Mobile", "Salesforce1 Platform", "Service Cloud"],
+        "role": ["Administrator", "Developer", "IT Professional", "SI Consulting Partner"],
+        "theme": ["Product Roadmaps"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [4],
+        "productIds": [4, 5, 8, 13, 14, 15],
+        "themeIds": [12],
+        "roleIds": [0, 4, 10, 17],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hWptAAE",
@@ -13580,7 +13682,7 @@
         "levelIds": [],
         "productIds": [0, 13, 15],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIbAAM",
@@ -13614,7 +13716,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000grkdAAA",
@@ -13648,7 +13750,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxdvAAA",
@@ -13682,7 +13784,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [14],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0zAAA",
@@ -13733,7 +13835,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmIgAAI",
@@ -13818,7 +13920,7 @@
         "levelIds": [0],
         "productIds": [8, 14, 15],
         "themeIds": [8],
-        "roleIds": [0, 10, 18, 19, 21],
+        "roleIds": [0, 10, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gtu1AAA",
@@ -13971,7 +14073,7 @@
         "levelIds": [],
         "productIds": [8, 14],
         "themeIds": [14, 15],
-        "roleIds": [0, 10, 12, 15, 21],
+        "roleIds": [0, 10, 12, 15, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guoHAAQ",
@@ -14093,6 +14195,23 @@
         "roleIds": [0, 7, 18, 19],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
+        "id": "a2q30000000i5btAAA",
+        "sessionName": "Raise more Resources with Salesforce",
+        "sessionAbstract": "Salesforce NGO Connect is a new application that combines industry-leading salesforce.com technology with powerful new capabilities designed specifically for the needs of today’s nonprofits. With Salesforce NGO Connect, your organization can transform into the Connected Nonprofit. In this session, two of our most innovative customers while share their experiences with you on how they leverage this best in breed technology to engage supporters and raise more resources.",
+        "industry": ["Non-Profit"],
+        "level": [],
+        "product": [],
+        "role": [],
+        "theme": [],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [8],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [],
+        "roleIds": [],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
         "id": "a2q30000000gyKQAAY",
         "sessionName": "Raise Your Marketing Game with Killer Community Management on Social Networks",
         "sessionAbstract": "Your community is an extension of your brand. Join us to learn how collaboration, transparency, and engagement fosters your own army of brand advocates to further your reach, reputation, and results. You'll learn how one brand created a strong and vibrant community on social networks.",
@@ -14163,7 +14282,7 @@
     }, {
         "id": "a2q30000000gup1AAA",
         "sessionName": "Rapid Prototyping Chatter with a PHP/Hack Canvas App on Heroku",
-        "sessionAbstract": "Join us for a live code demonstration of creating a Force.com Canvas app integrated with Chatter. Bring your ideas for an app, we'll pick one and see if we can build a prototype with PHP and the Hack programming language, and have it running on Heroku by the end of the session.",
+        "sessionAbstract": "Join us for a live code demonstration of creating a PHP/Hack app and integrating it with Chatter via Force.com Canvas. We will provide a process and framework to rapidly prototype Canvas apps within minutes, rather than days or months. In the session, we'll show you how we built prototypes based on ideas from the Salesforce Ideas site such as real-time translation to voice memos. At the end of the session, we will provide the prototyping framework for download.",
         "industry": [],
         "level": ["Any"],
         "product": ["Force.com", "Heroku"],
@@ -14199,17 +14318,17 @@
         "sessionName": "Reaching New Audiences with Content that Can Go Viral",
         "sessionAbstract": "Viral content can be the holy grail of marketing for small businesses because it allows you to reach a huge number of new audience and helps you grow your community quickly. Learn how you can create content that makes people want to share it with someone else. Come join us as we explore how you can turn B2B concepts into content that is interesting, outrageous, hilarious, cool and unusual.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com", "Force.com", "Sales Cloud", "Salesforce Chatter", "Salesforce Communities", "Service Cloud"],
-        "role": ["Entrepreneur"],
-        "theme": ["Small & Medium Business"],
+        "role": ["Entrepreneur", "Marketing Professional"],
+        "theme": ["Emerging Trends", "Small & Medium Business", "Social Marketing"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2, 4, 8, 9, 10, 15],
-        "themeIds": [17],
-        "roleIds": [5],
+        "themeIds": [3, 17, 18],
+        "roleIds": [5, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gumyAAA",
@@ -14260,7 +14379,7 @@
         "levelIds": [],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [10, 21],
+        "roleIds": [10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hLSDAA2",
@@ -14345,7 +14464,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5IHAAY",
@@ -14467,7 +14586,7 @@
         "roleIds": [6, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gvGSAAY",
+        "id": "a2q30000000gu2RAAQ",
         "sessionName": "Rethinking Web Content Management",
         "sessionAbstract": "Join us to learn about OrchestraCMS, and rethink how you drive digital experiences for customers, partners, and employees. Built directly on the Salesforce1 Platform, OrchestraCMS allows you to seamlessly integrate your web presence with your business strategy to deliver dynamic, mobile content to the right people at the right time. Run your business from one secure platform while you successfully engage customer, partners, and employees.",
         "industry": [],
@@ -14484,7 +14603,7 @@
         "roleIds": [10, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000gu2RAAQ",
+        "id": "a2q30000000gvGSAAY",
         "sessionName": "Rethinking Web Content Management",
         "sessionAbstract": "Join us to learn about OrchestraCMS, and rethink how you drive digital experiences for customers, partners, and employees. Built directly on the Salesforce1 Platform, OrchestraCMS allows you to seamlessly integrate your web presence with your business strategy to deliver dynamic, mobile content to the right people at the right time. Run your business from one secure platform while you successfully engage customer, partners, and employees.",
         "industry": [],
@@ -14515,7 +14634,7 @@
         "levelIds": [],
         "productIds": [8, 9, 10],
         "themeIds": [2, 14],
-        "roleIds": [0, 13, 21],
+        "roleIds": [0, 13, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hYWPAA2",
@@ -14600,7 +14719,7 @@
         "levelIds": [],
         "productIds": [14],
         "themeIds": [3, 8],
-        "roleIds": [2, 3, 6, 8, 10, 17, 19, 21],
+        "roleIds": [2, 3, 6, 8, 10, 17, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMhQAAU",
@@ -14770,7 +14889,7 @@
         "levelIds": [],
         "productIds": [4],
         "themeIds": [],
-        "roleIds": [11, 21],
+        "roleIds": [11, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMg4AAE",
@@ -14974,7 +15093,7 @@
         "levelIds": [],
         "productIds": [13, 14],
         "themeIds": [10, 13],
-        "roleIds": [10, 18, 19, 21],
+        "roleIds": [10, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hkTJAAY",
@@ -15060,23 +15179,6 @@
         "productIds": [],
         "themeIds": [],
         "roleIds": [],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000guoCAAQ",
-        "sessionName": "Salesforce Communities Custom Branding and Styling",
-        "sessionAbstract": "Are you wondering what all the buzz is about Salesforce Communities? Or are you already using Communities but wishing there was a way to bring your Community look and feel more in line with your existing web presence? Join us to get a brief overview of Salesforce Communities to show you what's possible and then dive into a technical demonstration of the various options for taking your Salesforce Community to the next level with custom branding and styling.",
-        "industry": [],
-        "level": [],
-        "product": [],
-        "role": ["Developer"],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [],
-        "themeIds": [],
-        "roleIds": [4],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0gAAA",
@@ -15416,7 +15518,7 @@
         "levelIds": [],
         "productIds": [4, 9, 10, 13, 14],
         "themeIds": [2, 8, 10, 11, 12, 13, 17, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hpHZAAY",
@@ -15576,17 +15678,17 @@
         "sessionName": "Scaling Culture: Ways to Attract, Hire, and Retain the Right People",
         "sessionAbstract": "As your small business grows, how do you maintain your culture so you continue to appear as a \"customer obsessed\" company? Join us as we discuss how to hire and retain quality talent, keep employees happy, and maintain your company's unique spirit while maximizing your growth.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
-        "theme": ["Small & Medium Business"],
+        "role": ["Entrepreneur", "Human Resources"],
+        "theme": ["Small & Medium Business", "User Experience"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2],
-        "themeIds": [17],
-        "roleIds": [5],
+        "themeIds": [17, 21],
+        "roleIds": [5, 9],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gunSAAQ",
@@ -15637,7 +15739,7 @@
         "levelIds": [4],
         "productIds": [],
         "themeIds": [8, 14],
-        "roleIds": [2, 3, 4, 10, 21],
+        "roleIds": [2, 3, 4, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gxEdAAI",
@@ -15654,7 +15756,7 @@
         "levelIds": [4],
         "productIds": [],
         "themeIds": [8],
-        "roleIds": [2, 3, 4, 10, 21],
+        "roleIds": [2, 3, 4, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0uAAA",
@@ -15858,7 +15960,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqKAAQ",
@@ -15875,7 +15977,24 @@
         "levelIds": [2],
         "productIds": [13, 15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000h39tAAA",
+        "sessionName": "Service Insights: More Than a Cost Center, Support is a Value Center",
+        "sessionAbstract": "Data is crucial to growth, but too much data can get you nowhere or lead you to dead ends. Join us to learn how you can use Business Insights wisely to help you identify outliers, find opportunities for improvement, measure progress over time, and monitor your business. After this session, you'll be able to run your own pre-onfigured reports in Desk.com to make better data-driven decisions specific to you support org and business needs.",
+        "industry": [],
+        "level": ["Any"],
+        "product": ["Desk.com", "Service Cloud"],
+        "role": ["Executive", "General Management", "Operations", "Sales Professional", "Service and Support Professional"],
+        "theme": ["Small & Medium Business"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [1],
+        "productIds": [2, 15],
+        "themeIds": [17],
+        "roleIds": [6, 8, 12, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweRAAQ",
@@ -15892,29 +16011,12 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000h39tAAA",
-        "sessionName": "Service Insights: More Than a Cost Center, Support is a Value Center",
-        "sessionAbstract": "Data is crucial to growth, but too much data can get you nowhere or lead you to dead ends. Join us to learn how you can use Business Insights wisely to help you identify outliers, find opportunities for improvement, measure progress over time, and monitor your business. After this session, you'll be able to run your own pre-onfigured reports in Desk.com to make better data-driven decisions specific to you support org and business needs.",
-        "industry": [],
-        "level": [],
-        "product": ["Desk.com"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [2],
-        "themeIds": [17],
-        "roleIds": [],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gweQAAQ",
         "sessionName": "Service Insights: More Than a Cost Center, Support is a Value Center",
-        "sessionAbstract": "Join us to learn how to you can use Business Insights wisely and get metrics and invaluable insights into every aspect of customer service performance. Desk.com gives you issue tracking, feedback and reporting tools which enable you to identify your customer's needs and issues. Business Insights tools like labels and custom fields will allow you to categorize and organize information or you can use CSat surveys to measure customer sentiment. After this session, you'll be able to run and share your own reports in Desk.com to make better data-driven decisions specific to your support org and business needs - all with the end goal of delivering excellent customer service.",
+        "sessionAbstract": "Join us to learn how you can use Business Insights wisely and get metrics and invaluable insights into every aspect of customer service performance. Desk.com gives you issue tracking, feedback and reporting tools which enable you to identify your customer's needs and issues. Business Insights tools like labels and custom fields will allow you to categorize and organize information or you can use CSat surveys to measure customer sentiment. After this session, you'll be able to run and share your own reports in Desk.com to make better data-driven decisions specific to your support organization and business needs - all with the end goal of delivering excellent customer service.",
         "industry": [],
         "level": ["Beginner"],
         "product": ["Desk.com"],
@@ -15926,7 +16028,7 @@
         "levelIds": [2],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgaAAE",
@@ -15960,7 +16062,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5IPAAY",
@@ -15994,7 +16096,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyK5AAI",
@@ -16096,7 +16198,7 @@
         "levelIds": [],
         "productIds": [0, 3, 4, 6, 8, 9, 10, 13, 14],
         "themeIds": [1, 2, 3, 4, 7, 8, 9, 10, 13, 16, 17, 18, 21],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0yAAA",
@@ -16137,17 +16239,17 @@
         "sessionName": "Small Business: Growing Your Company with Service Cloud & a 360 Customer View",
         "sessionAbstract": "Join our panel of customer service experts at rapidly growing small businesses to learn how they've leveraged Service Cloud and Salesforce to get a 360-degree view of their customers and drive growth. You'll hear their stories and have the opportunity to join the conversation and get answers.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Sales Cloud", "Service Cloud"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "role": ["Executive", "General Management", "Sales Professional", "Service and Support Professional"],
+        "theme": ["Integration", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [8, 15],
-        "themeIds": [17],
-        "roleIds": [],
+        "themeIds": [7, 17],
+        "roleIds": [6, 8, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyKcAAI",
@@ -16249,7 +16351,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8, 18],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyq0AAA",
@@ -16266,7 +16368,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [8, 18],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIKAA2",
@@ -16487,7 +16589,7 @@
         "levelIds": [],
         "productIds": [14, 15],
         "themeIds": [3, 5],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 8, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iAsDAAU",
@@ -17031,7 +17133,7 @@
         "levelIds": [0],
         "productIds": [2],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMmeAAE",
@@ -17048,24 +17150,24 @@
         "levelIds": [],
         "productIds": [13, 15],
         "themeIds": [2, 3, 10, 12],
-        "roleIds": [0, 10, 21],
+        "roleIds": [0, 10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmG6AAI",
         "sessionName": "The Future of SMB Advertising",
         "sessionAbstract": "Learn cutting edge ways to drive more leads, bring in more prospects and fuel your small and medium business growth all with limited budget. Hear from our experts about the best new digital advertising technologies and how accessible they can be when you know what you are looking for.",
         "industry": [],
-        "level": [],
-        "product": ["Desk.com"],
-        "role": ["Entrepreneur"],
-        "theme": ["Small & Medium Business"],
+        "level": ["Any"],
+        "product": ["Desk.com", "ExactTarget Marketing Cloud"],
+        "role": ["Entrepreneur", "Marketing Professional"],
+        "theme": ["Emerging Trends", "Marketing Automation", "Small & Medium Business", "Social Marketing"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [2],
-        "themeIds": [17],
-        "roleIds": [5],
+        "levelIds": [1],
+        "productIds": [2, 3],
+        "themeIds": [3, 9, 17, 18],
+        "roleIds": [5, 11],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gw0bAAA",
@@ -17136,6 +17238,23 @@
         "roleIds": [0, 4],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
+        "id": "a2q30000000iVB4AAM",
+        "sessionName": "The Integration Roadmap: New integration solutions for connecting to any App",
+        "sessionAbstract": "Hear the innovative new ways to integrate Salesforce to any enterprise endpoint. Learn from the integration experts from Jitterbit and Salesforce about new solutions for connected cloud analytics, virtual integration, and real-time APIs. See live demos for quickly connecting to any data source, connecting with the new Salesforce virtual objects, and building composite APIs that open new channels of customer and partner revenue.",
+        "industry": [],
+        "level": [],
+        "product": [],
+        "role": ["Executive", "IT Professional", "SI Consulting Partner", "Sales Operations", "Service and Support Professional"],
+        "theme": ["AppExchange", "Mobile", "Sales Productivity"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [1, 10, 13],
+        "roleIds": [6, 10, 17, 18, 20],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
         "id": "a2q30000000iAe6AAE",
         "sessionName": "The Keys to Customer Success",
         "sessionAbstract": "How can a company achieve true customer success? Thomas Lah, one of the top analysts in the field, believes that customer success is not an organization, but a broad capability, and the supporting capabilities for customer success will be found in multiple organizations. In this session, learn three major takeaways for how you can facilitate success for your customers.",
@@ -17150,7 +17269,7 @@
         "levelIds": [],
         "productIds": [7],
         "themeIds": [2, 3, 8, 14, 22],
-        "roleIds": [3, 5, 6, 8, 9, 12, 17, 18, 21],
+        "roleIds": [3, 5, 6, 8, 9, 12, 17, 18, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i34ZAAQ",
@@ -17388,7 +17507,7 @@
         "levelIds": [],
         "productIds": [0, 4, 14],
         "themeIds": [],
-        "roleIds": [10, 21],
+        "roleIds": [10, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000guneAAA",
@@ -17524,7 +17643,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
-        "roleIds": [5, 6, 8, 11, 18, 19, 21],
+        "roleIds": [5, 6, 8, 11, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h1IUAAY",
@@ -17558,7 +17677,7 @@
         "levelIds": [5],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gypvAAA",
@@ -17575,7 +17694,7 @@
         "levelIds": [5],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gupQAAQ",
@@ -17593,40 +17712,6 @@
         "productIds": [],
         "themeIds": [],
         "roleIds": [4],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gwYkAAI",
-        "sessionName": "This Is Not Your Father's Call Center: Communities as Your New Tier 1 Support (2",
-        "sessionAbstract": "Providing an online community to service and collect feedback from your customers has become essential in today's social world. However, customers are looking for coherent self-service and community experiences, providing a single source of truth regardless of their entry into the system. Join us to hear how customers have used Salesforce Communities to increase customer satisfaction and maximize web issue resolution with integrated self-service communities.",
-        "industry": [],
-        "level": [],
-        "product": ["Salesforce Communities", "Service Cloud"],
-        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
-        "theme": ["Collaboration & Communities"],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [10, 15],
-        "themeIds": [2],
-        "roleIds": [0, 10, 21],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
-        "id": "a2q30000000gdQmAAI",
-        "sessionName": "This Is Not Your Father's Call Center: Communities as Your New Tier 1 Support(1)",
-        "sessionAbstract": "Providing an online community to service and collect feedback from your customers has become essential in today's social world. However, customers are looking for coherent self-service and community experiences, providing a single source of truth regardless of their entry into the system. Join us to hear how customers have used Salesforce Communities to increase customer satisfaction and maximize web issue resolution with integrated self-service communities.",
-        "industry": [],
-        "level": [],
-        "product": ["Salesforce Communities", "Service Cloud"],
-        "role": ["Administrator", "IT Professional", "Service and Support Professional"],
-        "theme": ["Collaboration & Communities"],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [],
-        "levelIds": [],
-        "productIds": [10, 15],
-        "themeIds": [2],
-        "roleIds": [0, 10, 21],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gtyeAAA",
@@ -17752,17 +17837,17 @@
         "sessionName": "Tips on How To Keep Your Customers Loyal",
         "sessionAbstract": "Retention of customers is likely to be more porfitable than the acquistion of new customers over time. How can you exceed customer expectations so that they become loyal advocates of your brand?",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Desk.com", "Force.com", "Sales Cloud", "Salesforce Chatter", "Salesforce Communities", "Salesforce1 Platform", "Service Cloud"],
-        "role": ["Entrepreneur"],
-        "theme": ["Small & Medium Business"],
+        "role": ["Entrepreneur", "Executive", "General Management", "Service and Support Professional"],
+        "theme": ["Small & Medium Business", "Social Marketing"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [2, 4, 8, 9, 10, 14, 15],
-        "themeIds": [17],
-        "roleIds": [5],
+        "themeIds": [17, 18],
+        "roleIds": [5, 6, 8, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iIIUAA2",
@@ -17813,7 +17898,7 @@
         "levelIds": [2],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyqRAAQ",
@@ -17830,7 +17915,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hxPkAAI",
@@ -17847,7 +17932,7 @@
         "levelIds": [1],
         "productIds": [14, 15],
         "themeIds": [3],
-        "roleIds": [0, 1, 2, 3, 4, 6, 8, 12, 17, 21],
+        "roleIds": [0, 1, 2, 3, 4, 6, 8, 12, 17, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfmAAE",
@@ -17932,7 +18017,7 @@
         "levelIds": [],
         "productIds": [4],
         "themeIds": [],
-        "roleIds": [6, 21],
+        "roleIds": [6, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMgSAAU",
@@ -17983,41 +18068,41 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39NAAQ",
         "sessionName": "Transforming Small Business with Mobile",
         "sessionAbstract": "Being a mobile-centric company is important for business success. Join us to learn how in the evolving mobile landscape, small businesses and startups often have the greatest advantage in leveraging mobile technology to fuel their growth.",
         "industry": [],
-        "level": [],
-        "product": ["Salesforce1 Mobile"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "level": ["Intermediate"],
+        "product": ["Heroku", "Salesforce1 Mobile", "Salesforce1 Platform"],
+        "role": ["Administrator", "Consultant", "Developer", "Executive", "General Management", "IT Professional", "Product Management"],
+        "theme": ["Mobile", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [13],
-        "themeIds": [17],
-        "roleIds": [],
+        "levelIds": [4],
+        "productIds": [5, 13, 14],
+        "themeIds": [10, 17],
+        "roleIds": [0, 3, 4, 6, 8, 10, 15],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h39OAAQ",
         "sessionName": "Transforming Small Business with Mobile (2)",
         "sessionAbstract": "Being a mobile-centric company is important for business success. Join us to learn how in the evolving mobile landscape, small businesses and startups often have the greatest advantage in leveraging mobile technology to fuel their growth.",
         "industry": [],
-        "level": [],
-        "product": ["Salesforce1 Mobile"],
-        "role": [],
-        "theme": ["Small & Medium Business"],
+        "level": ["Intermediate"],
+        "product": ["Salesforce1 Mobile", "Salesforce1 Platform"],
+        "role": ["Administrator", "Consultant", "Developer", "Executive", "General Management", "IT Professional"],
+        "theme": ["Mobile", "Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
-        "productIds": [13],
-        "themeIds": [17],
-        "roleIds": [],
+        "levelIds": [4],
+        "productIds": [13, 14],
+        "themeIds": [10, 17],
+        "roleIds": [0, 3, 4, 6, 8, 10],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMfZAAU",
@@ -18136,7 +18221,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [12],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hx9vAAA",
@@ -18323,7 +18408,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5ITAAY",
@@ -18357,7 +18442,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000i0JcAAI",
@@ -18374,7 +18459,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyK3AAI",
@@ -18459,7 +18544,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [],
-        "roleIds": [4, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19, 21],
+        "roleIds": [4, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMg3AAE",
@@ -18595,7 +18680,7 @@
         "levelIds": [],
         "productIds": [0, 3, 4, 6, 8, 9, 10, 13, 14],
         "themeIds": [0, 1, 2, 3, 4, 7, 8, 9, 10, 13, 16, 17, 18],
-        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21],
+        "roleIds": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hmADAAY",
@@ -18636,14 +18721,14 @@
         "sessionName": "Vision to Value – An SMB Customer Success Journey",
         "sessionAbstract": "From vision to value in the Cloud. Join us to hear the story of workpop's 6 week guided journey from bold vision to reality on the Salesforce Platform. You'll learn how this small Los Angeles Area venture-funded startup built its core offering with one part-time administrator, a big idea and help from the Premier+ Success team.",
         "industry": [],
-        "level": [],
+        "level": ["Any"],
         "product": ["Force.com", "Sales Cloud", "Salesforce1 Mobile", "Salesforce1 Platform", "Service Cloud"],
         "role": ["Administrator", "Entrepreneur", "Executive", "General Management"],
         "theme": ["Small & Medium Business"],
         "audioTrackUrl": "",
         "slidesUrl": "",
         "industryIds": [],
-        "levelIds": [],
+        "levelIds": [1],
         "productIds": [4, 8, 13, 14, 15],
         "themeIds": [17],
         "roleIds": [0, 5, 6, 8],
@@ -18802,23 +18887,6 @@
         "roleIds": [0, 3, 10, 12],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
-        "id": "a2q30000000i5btAAA",
-        "sessionName": "What is Salesforce NGO Connect?",
-        "sessionAbstract": "Salesforce NGO Connect is a new application that combines industry-leading salesforce.com technology with powerful new capabilities designed specifically for the needs of today’s nonprofits. With Salesforce NGO Connect, your organization can transform into the Connected Nonprofit. In this session, two of our most innovative customers while share their experiences with you on how they leverage this best in breed technology to engage supporters and raise more resources.",
-        "industry": ["Non-Profit"],
-        "level": [],
-        "product": [],
-        "role": [],
-        "theme": [],
-        "audioTrackUrl": "",
-        "slidesUrl": "",
-        "industryIds": [8],
-        "levelIds": [],
-        "productIds": [],
-        "themeIds": [],
-        "roleIds": [],
-        "recordTypeId": "01230000001dsc8AAA"
-    }, {
         "id": "a2q30000000h3BlAAI",
         "sessionName": "What's Coming from Salesforce.com and Microsoft",
         "sessionAbstract": "Salesforce.com and Microsoft announced a strategic partnership this year. Come hear from Salesforce and Microsoft Product Leaders about where the products are going in the future.",
@@ -18850,7 +18918,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [3, 10, 18],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hz9rAAA",
@@ -18867,7 +18935,7 @@
         "levelIds": [],
         "productIds": [],
         "themeIds": [2],
-        "roleIds": [11, 18, 19, 21],
+        "roleIds": [11, 18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000h5IUAAY",
@@ -18901,7 +18969,7 @@
         "levelIds": [1],
         "productIds": [8, 15],
         "themeIds": [8, 13],
-        "roleIds": [18, 19, 21],
+        "roleIds": [18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gyppAAA",
@@ -18918,7 +18986,7 @@
         "levelIds": [1],
         "productIds": [8, 15],
         "themeIds": [8, 13],
-        "roleIds": [18, 19, 21],
+        "roleIds": [18, 19, 20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMtpAAE",
@@ -18957,7 +19025,7 @@
     }, {
         "id": "a2q30000000hpeBAAQ",
         "sessionName": "Women in Sales: Lessons from Top Female Sales Leaders",
-        "sessionAbstract": "Join us as Jill Konrath, the award-winning author of Snap Selling and High-Profit Selling, kicks off an interactive session catered toward women in sales. Konrath will give a 20-minute presentation, followed by a moderated panel of female sales leaders including Joanne Black, Josiane Feigon, and others.",
+        "sessionAbstract": "Join us as Jill Konrath, the award-winning author of Snap Selling and Abile Selling, kicks off an interactive session featuring several of women in sales. Konrath will give a 20-minute presentation, followed by a moderated panel of female sales leaders including Joanne Black, Josiane Feigon, and Trish Bertuzzi.",
         "industry": [],
         "level": [],
         "product": [],
@@ -18970,6 +19038,23 @@
         "productIds": [],
         "themeIds": [22],
         "roleIds": [18, 19],
+        "recordTypeId": "01230000001dsc8AAA"
+    }, {
+        "id": "a2q30000000iVORAA2",
+        "sessionName": "Women in Salesforce",
+        "sessionAbstract": "Opportunities abound for women in the Salesforce universe. Hear inspiring stories and career tips from a panel of women making waves across an increasingly diverse Salesforce community. Join our special panel of women leaders: Kimberly Wallins Friedman, Founder and CEO, Hire On-Demand (moderator); Karen Gonnet, Senior Director IS Development , The Advisory Board; Deepa Patel, President, Halak Consulting; and Kimberly Seabrook, VP Corporate Sales, Salesforce.com. Key topics include navigating the Salesforce career landscape, remote leadership, compensation, and leveraging this prime window of opportunity in a booming ecosystem!",
+        "industry": [],
+        "level": [],
+        "product": [],
+        "role": [],
+        "theme": ["Women in Technology"],
+        "audioTrackUrl": "",
+        "slidesUrl": "",
+        "industryIds": [],
+        "levelIds": [],
+        "productIds": [],
+        "themeIds": [22],
+        "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000iT9DAAU",
@@ -19020,7 +19105,7 @@
         "levelIds": [1],
         "productIds": [15],
         "themeIds": [6, 8],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000gtkeAAA",
@@ -19309,7 +19394,7 @@
         "levelIds": [1],
         "productIds": [13],
         "themeIds": [10],
-        "roleIds": [21],
+        "roleIds": [20],
         "recordTypeId": "01230000001dsc8AAA"
     }, {
         "id": "a2q30000000hMAeAAM",
@@ -19329,10 +19414,10 @@
         "roleIds": [],
         "recordTypeId": "01230000001dsc8AAA"
     }],
-    "filteredCount": 1137,
+    "filteredCount": 1142,
     "industryValues": ["Automotive", "Communications", "Financial Services", "Healthcare & Life Sciences", "High Tech", "Higher Education", "Manufacturing", "Media", "Non-Profit", "Oil & Gas", "Public Sector", "Retail & Consumer Goods"],
-    "count": 1137,
-    "roleValues": ["Administrator", "Alliances", "Architect", "Consultant", "Developer", "Entrepreneur", "Executive", "Finance and Accounting", "General Management", "Human Resources", "IT Professional", "Marketing Professional", "Operations", "Other", "Partner / ISV", "Product Management", "Purchasing and Procurement", "SI Consulting Partner", "Sales Operations", "Sales Professional", "Service & Support Professional", "Service and Support Professional"],
+    "count": 1142,
+    "roleValues": ["Administrator", "Alliances", "Architect", "Consultant", "Developer", "Entrepreneur", "Executive", "Finance and Accounting", "General Management", "Human Resources", "IT Professional", "Marketing Professional", "Operations", "Other", "Partner / ISV", "Product Management", "Purchasing and Procurement", "SI Consulting Partner", "Sales Operations", "Sales Professional", "Service and Support Professional"],
     "themeValues": ["Analytics", "AppExchange", "Collaboration & Communities", "Emerging Trends", "Forecasting", "Gamification", "IT Help Desk", "Integration", "Large Enterprise", "Marketing Automation", "Mobile", "Open Innovation", "Product Roadmaps", "Sales Productivity", "Salesforce.com on Salesforce", "Security", "Selling with Partners", "Small & Medium Business", "Social Marketing", "Sustainability", "UCSF", "User Experience", "Women in Technology"],
     "productValues": ["AppExchange", "Data.com", "Desk.com", "ExactTarget Marketing Cloud", "Force.com", "Heroku", "Pardot", "Premier Success", "Sales Cloud", "Salesforce Chatter", "Salesforce Communities", "Salesforce Identity", "Salesforce Sandbox", "Salesforce1 Mobile", "Salesforce1 Platform", "Service Cloud", "Work.com"]
 }
